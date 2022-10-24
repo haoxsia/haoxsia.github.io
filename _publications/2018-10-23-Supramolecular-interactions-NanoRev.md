@@ -10,6 +10,4 @@ citation: 'Nanotechnol Rev 2018; 7(6): 487–495'
 ---
 [Download paper here](http://haoxsia.github.io/files/2018-10-23-Supramolecular-interactions-NanoRev.pdf)
 
-Recommended citation: Nanotechnol Rev 2018; 7(6): 487–495.
-
 
