@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in GitHub, (GitHub University)[https://scholar.google.com/], 2012
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Jekyll, (GitHub University)[https://github.com/haoxsia/haoxsia.github.io/blob/7a7e4778b707df27b41bdfd507836697f9da25ac/files/paper1.pdf], 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
