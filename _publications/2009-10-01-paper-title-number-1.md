@@ -1,14 +1,16 @@
 ---
-title: "Supramolecular interactions of poly [(9, 9-dioctylfluorenyl-2, 7-diyl)-co-thiophene] with single-walled carbon nanotubes"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/10.1515_ntrev-2018-0041
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
-venue: 'Nanotechnol Rev'
-paperurl: 'http://haoxsia.github.io/files/10.1515_ntrev-2018-0041.pdf'
-citation: 'Nanotechnol Rev 2018; 7(6): 487–495'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://haoxsia.github.io/files/paper1.pdf'
+citation: 'Nanotechnol Rev 2018; 7(6): 487–495; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://haoxsia.github.io/files/10.1515_ntrev-2018-0041.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Nanotechnol Rev 2018; 7(6): 487–495.
+Recommended citation: notechnol Rev 2018; 7(6): 487–495. "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
