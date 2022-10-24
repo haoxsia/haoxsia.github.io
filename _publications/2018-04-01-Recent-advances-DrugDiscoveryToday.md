@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-04-01
 venue: 'Drug Discovery Today'
 paperurl: ''
-citation: 'Drug Discovery Today 2018, 23(4): 900-911'
+citation: 'Penghui Zhang, Keli An, Xiaoman Duan, Hao Xu, et al. Drug Discovery Today 2018, 23(4): 900-911'
 ---
 [Download paper here](http://haoxsia.github.io/files/2018-04-01-Recent-advances-DrugDiscoveryToday.pdf)
 
