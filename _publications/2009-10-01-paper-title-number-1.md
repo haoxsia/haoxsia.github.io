@@ -12,5 +12,5 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: notechnol Rev 2018; 7(6): 487–495. "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: notechnol Rev 2018; 7(6): 487–495.
 
