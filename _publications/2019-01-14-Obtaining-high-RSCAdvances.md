@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-01-14
 venue: 'RSC Advances'
 paperurl: ''
-citation: 'RSC Advances, 2019, 9, 3558–3569'
+citation: 'Hao Xu, Wenhui Yi, Dongfan Li, et al. RSC Advances, 2019, 9, 3558–3569'
 ---
 
 [Download paper here](http://haoxsia.github.io/files/2019-01-14-Obtaining-high-RSCAdvances.pdf)
