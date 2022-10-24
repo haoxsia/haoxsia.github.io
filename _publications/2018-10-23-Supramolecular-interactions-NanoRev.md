@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-10-23
 venue: 'Nanotechnol Rev'
 paperurl: ''
-citation: 'Nanotechnol Rev 2018; 7(6): 487–495'
+citation: 'Ping Zhang, Wenhui Yi, Hao Xu, et al. Nanotechnol Rev 2018; 7(6): 487–495'
 ---
 [Download paper here](http://haoxsia.github.io/files/2018-10-23-Supramolecular-interactions-NanoRev.pdf)
 
