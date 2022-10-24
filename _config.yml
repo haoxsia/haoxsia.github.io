@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao XU / Mr."
+title                    : "Hao Xu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao XU"
+  name             : "Hao Xu"
   avatar           : "hx_earth.png"
   bio              : "Still marathon lover & swimming hoper"
   location         : "France"
