@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://haoxsia.github.io/images/profile_hx.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 About Hao,
 ======
 Hi there! Welcome!
