@@ -13,3 +13,4 @@ In this set of projects, I leverage geospatial event data to explore the microle
 ## Article
 
 Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
+
