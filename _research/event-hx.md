@@ -1,7 +1,7 @@
 ---
 title: "Conflict event data"
 layout: single-portfolio
-excerpt: "<img src='/images/profile.png' alt=''>"
+excerpt: "<img src='/images/test-1.png' alt=''>"
 collection: research
 order_number: 20
 header: 
