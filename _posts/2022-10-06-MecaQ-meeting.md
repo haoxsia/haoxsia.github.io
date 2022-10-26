@@ -1,5 +1,5 @@
 ---
-title: 'MecaQ optomechanics 7th Annual Meeting'
+title: 'MecaQ Optomechanics 7th Annual Meeting'
 date: 2022-10-06
 permalink: /posts/2022-10-06-MecaQ-meeting/
 tags:
