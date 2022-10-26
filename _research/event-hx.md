@@ -1,7 +1,7 @@
 ---
 title: "Conflict event data"
 layout: single-portfolio
-excerpt: "<img src='/images/epr.png' alt=''>"
+excerpt: "<img src='https://haoxsia.github.io/images/epr.png' alt=''>"
 collection: research
 order_number: 20
 header: 
