@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Hao Xu, Wenhui Yi, Dongfan Li, et al. RSC Advances, 2019, 9, 3558–3569'
 ---
 
-[Download paper here](http://haoxsia.github.io/files/2019-01-14-Obtaining-high-RSCAdvances.pdf)
+See [paper](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c8ra09934k)
 
 ## Abstract
 Silkworm fibers have attracted widespread attention for their superb glossy texture and promising
