@@ -17,4 +17,4 @@ This meeting will discuss exciting advances in the design, implementation, and c
 
 ------
 
-See [conference agenda here](/files/posts/2022-10-25-Nature-conference.pdf).
+See [conference agenda](/files/posts/2022-10-25-Nature-conference.pdf).
