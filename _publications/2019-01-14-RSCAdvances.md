@@ -1,7 +1,7 @@
 ---
 title: "Obtaining high mechanical performance silk fibers by feeding purified carbon nanotube/lignosulfonate composite to silkworms"
 collection: publications
-permalink: /publication/2019-01-14-Obtaining-high-RSCAdvances
+permalink: /publication/2019-01-14-RSCAdvances
 excerpt: ''
 date: 2019-01-14
 venue: 'RSC Advances'
