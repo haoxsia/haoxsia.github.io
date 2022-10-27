@@ -7,6 +7,7 @@ tags:
   - compression
   - shear
   - bending
+ 
 ---
 
 This course introduces a few engineering concepts related to structures. Its interests focus mainly on bridges and buildings but 'structures' also include trees, furniture, and most solid objects. Giving learners a different perspective on the structures.
