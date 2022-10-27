@@ -1,7 +1,7 @@
 ---
 title: "Recent advances in siRNA delivery for cancer therapy using smart nanocarriers"
 collection: publications
-permalink: /publication/2018-04-01-Recent-advances-DrugDiscoveryToday
+permalink: /publication/2018-04-01-DrugDiscoveryToday
 excerpt: ''
 date: 2018-04-01
 venue: 'Drug Discovery Today'
