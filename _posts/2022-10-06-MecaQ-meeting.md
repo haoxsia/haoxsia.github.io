@@ -11,7 +11,8 @@ The GDR MecaQ gathers the French community of scientists sharing an interest for
 
 # MecaQ webinar series
 The MecaQ webinar series is a collection of monthly webinars delivered by high-profile international scientists in the fields of optomechanics and nanomechanics.
-Title: Measuring the higher-order phonon statistics in a nanogram volume of superfluid heliumAbstract, [here](https://www.youtube.com/watch?v=1FjmSGtnTEc&t=575s) is available.
+
+*Title: Measuring the higher-order phonon statistics in a nanogram volume of superfluid helium, [here](https://www.youtube.com/watch?v=1FjmSGtnTEc&t=575s) is available.
 
 ------
 
