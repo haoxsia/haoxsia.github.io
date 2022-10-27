@@ -8,7 +8,7 @@ venue: 'Drug Discovery Today'
 paperurl: ''
 citation: 'Penghui Zhang, Keli An, Xiaoman Duan, Hao Xu, et al. Drug Discovery Today 2018, 23(4): 900-911'
 ---
-[Download paper here](http://haoxsia.github.io/files/2018-04-01-Recent-advances-DrugDiscoveryToday.pdf)
+See [paper](https://www.sciencedirect.com/science/article/abs/pii/S1359644617304294?via%3Dihub)
 
 ## Abstract
 Small interfering RNAs (siRNAs) can selectively target and downregulate disease-causing genes, holding
