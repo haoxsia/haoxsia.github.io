@@ -19,4 +19,4 @@ a [fantastic handout](https://students.wustl.edu/wp-content/uploads/2021/02/Resu
 
 ------
 
-See [valid certificate](https://courses.edx.org/certificates/3915da0fe465460cb5212578efdf5e4a).
+See [valid certificate](https://courses.edx.org/certificates/3915da0fe465460cb5212578efdf5e4a)
