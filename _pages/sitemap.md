@@ -9,6 +9,11 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?haoxsia"
+border="0" alt="stats counter"></a>
+<br><a href="https://www.easycounter.com/">Web Counters</a>
+
 <h2>Pages</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
