@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/profile_hx.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://haoxsia.github.io/images/profile_hx.png?raw=true" alt="Photo" style="width: 350px;"/> 
 </p>
 
 Hi there! Welcome!
