@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "img"
+title: "Sitemapp"
 permalink: /sitemap/
 author_profile: true
 ---
@@ -11,8 +11,8 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?haoxsia"
-border="0" alt="stats counter"></a>
-<br><a href="https://www.easycounter.com/">Web Counters</a>
+border="0" alt="Free Hit Counters"></a>
+<br><a href="https://www.easycounter.com/">page counter</a>
 
 <h2>Pages</h2>
 {% for post in site.pages %}
