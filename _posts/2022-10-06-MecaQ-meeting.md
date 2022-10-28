@@ -20,4 +20,4 @@ The MecaQ webinar series is a collection of monthly webinars delivered by high-p
 
 ------
 
-See [home website](http://www.lkb.upmc.fr/gdr-meca-q/).
+See [home website](http://www.lkb.upmc.fr/gdr-meca-q/)
