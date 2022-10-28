@@ -11,7 +11,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?haoxsia"
-border="0" alt="Free Hit Counters"></a>
+border="0" alt="Free Hit Counters"></a> visits since Oct. 2022
 <br><a href="https://www.easycounter.com/">page counter</a>
 
 <h2>Pages</h2>
