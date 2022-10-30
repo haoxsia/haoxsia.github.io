@@ -46,5 +46,3 @@ SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 * Fig.(h): silicon nitride drum membrane released from the Si substrate
 * Fig.(i): thin Al layer deposited on the released SiNx drum membrane
 * Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
-
-
