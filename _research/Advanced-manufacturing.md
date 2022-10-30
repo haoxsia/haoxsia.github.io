@@ -6,7 +6,7 @@ collection: research
 order_number: 20
 permalink: /images/
 gallery:
-  - url: https://haoxsia.github.io/images/researh/2021-06-16-SiN-drum-etch.png
+  - url: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-etch.png
     image_path: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-etch.png
     alt: "Silicon nitride drum membrane release"
     title: "Silicon nitride drum membrane release"
@@ -41,8 +41,10 @@ bonding pads on the chip are designed to be 50 Ohm impedance for microwave signa
 
 SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 
+{% include gallery %}
+
 * Fig.(h): Silicon nitride drum membrane released from the Si substrate
 * Fig.(i): Al layer deposited on the released SiNx drum membrane
 * Fig.(j): Thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
-{% include gallery %}
+
