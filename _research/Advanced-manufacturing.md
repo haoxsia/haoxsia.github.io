@@ -25,7 +25,7 @@ header:
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
-Fig.(a-g) shows the nanofabrication process of silicon nitride drum mechanical resonators.
+Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
 We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
 holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN
 layer (SF6 : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a
@@ -43,8 +43,8 @@ SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 
 {% include gallery %}
 
-* Fig.(h): Silicon nitride drum membrane released from the Si substrate
-* Fig.(i): Al layer deposited on the released SiNx drum membrane
-* Fig.(j): Thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
+* Fig.(h): silicon nitride drum membrane released from the Si substrate
+* Fig.(i): thin Al layer deposited on the released SiNx drum membrane
+* Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
 
