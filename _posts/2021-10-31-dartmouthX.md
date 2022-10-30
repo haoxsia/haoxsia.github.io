@@ -10,12 +10,22 @@ tags:
  
 ---
 
+<p align="center">
+  <img src="https://haoxsia.github.io/images/posts/2022-10-30-tension-compression.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 This course introduces a few engineering concepts related to structures. Its interests focus mainly on bridges and buildings but 'structures' also include trees, furniture, and most solid objects. Giving learners a different perspective on the structures.
 
 # Tension and Compression
-a [fantastic handout](https://students.wustl.edu/wp-content/uploads/2021/02/Resumes-and-CVs-2021-Final-1.pdf) on differences between the two documents and how to adapt a CV into a résumé that I drew on heavily in this process.
+* Introduction, Lessons and Examples
+* Activity: Build a Cable-Stayed Bridge
+* Activity: Build Anti-funicular Forms
+* Activity: Build a Truss Bridge
 
 # Shear and Bending
+* Introduction, Lessons and Examples
+* Lessons and Examples
+* Activity: Build a Cardboard Beam or Shelf
+* General Discussion
 
 ------
 
