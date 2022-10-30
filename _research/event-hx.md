@@ -8,27 +8,41 @@ permalink: /images/
 gallery:
   - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-etch.png
     image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-etch.png
-    alt: "First, silicon nitride drum membrane released from the Si substrate"
-    title: "First, silicon nitride drum membrane released from the Si substrate"
+    alt: "Silicon nitride drum membrane release"
+    title: "Silicon nitride drum membrane release"
   - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-bottom.png
     image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-bottom.png
-    alt: "Second, thin Al layer deposited on the released SiNx drum membrane"
-    title: "Second, thin Al layer deposited on the released SiNx drum membrane"
+    alt: "Thin Aluminum layer deposition on the drum"
+    title: "Thin Aluminum layer deposition on the drum"
   - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-gate.png
     image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-gate.png
-    alt: "Third, thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator"
-    title: "Third, thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator"
+    alt: "Thick Aluminum layer deposition as the drum's top gate"
+    title: "Thick Aluminum layer deposition as the drum's top gate"
 header: 
   og_image: "https://haoxsia.github.io/images/research/2021-06-16-SiN-drum.png"
 ---
 
-In this set of projects, mechanical resoantors are fabricated in our ultracleanroom, 
+<p align="center">
+  <img src="https://haoxsia.github.io/images/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
+</p>
+Figure (a-g) shows the nanofabrication process of silicon nitride drum mechanical resonators.
+We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
+holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN
+layer (SF6 : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a
+selective XeF2 silicon etching. These holes occupy about 40 % ~ 45 % of the SiN drum area.
+Its suspended top-gate is fabricated by using EB resist PMMA as a top-gate support through
+soft-bake at the temperature of 140 centidegree and reflowed at 180 centidegree. Then, we deposit the second
+layer EB resist MMA (methyl methacrylate) on the top of the support resist and pattern the
+gate structure. For the metal depositions, we first perform Ar ion etching process to clean
+the sample and then use with electron beam evaporation to deposition the thin films. All
+bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
 
-I leverage geospatial event data to explore the microlevel dynamics of political violence. What role can violence at the local level serve in advancing broader political ends? What explains patterns of action and reaction between actors engaged in different types of political violence? How do the differing roles the UN peacekeepers play affect the likelihood that rebel fighters will target them?
+# Microscopic figures
+
+SEM images of the fabricated mechanical resoantors are taken in our cleanroom:
+
+* First image, silicon nitride drum membrane released from the Si substrate
+* Second image, thin Al layer deposited on the released SiNx drum membrane
+* Third image, thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
 {% include gallery %}
-
-## Article
-
-Christian Oswald, Melanie Sauter, Sigrid Weber, and Rob Williams. "Under the Roof of Rebels: Civilian Targeting After Territorial Takeover in Sierra Leone." *International Studies Quarterly*.
-
