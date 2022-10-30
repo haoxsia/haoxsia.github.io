@@ -7,27 +7,26 @@ header:
   og_image: "profile.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My academic research focuses on two main areas:
+First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)
+is an important point during my doctoral studies, among which I also need to receive
+a professional training in cleanroom and learn laboratory rules. More important, my
+microfabrication training relates to practicing and understanding lithography, dry
+ecthing, metal deposition as well as the sample inspection and metrology.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Second, theory developing of cavity optomechanics physics is another important key,
+in which mainly in the microwave domain I calculate and analyse the basis of equations
+of motion of mechanical resonators. Advances in mechanical resonators provide a lot
+of opportunities to do quantum ground cooling, entangling different resonators, and
+ultrasensitive detection for tiny forces or masses. Of course, the measurement evaluation
+and experiments for these kinds of resonator's schemes are included before, during and after
+projects running.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Prior to doing above, magnetically and electrically controlling two dimensional liquid
+crystals (LCs) for tuning polarized lights propragation are my major targets.
+
+In others, nanomaterials including carbon nanotubes and graphene are my early explores.
+
 
 <nbsp>
 
