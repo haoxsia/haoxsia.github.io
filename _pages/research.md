@@ -8,24 +8,20 @@ header:
 ---
 
 My academic research focuses on two main areas:
-First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)
-is an important point during my doctoral studies, among which I also need to receive
-a professional training in cleanroom and learn laboratory rules. More important, my
-microfabrication training relates to practicing and understanding lithography, dry
-ecthing, metal deposition as well as the sample inspection and metrology.
 
-Second, theory developing of cavity optomechanics physics is another important key,
-in which mainly in the microwave domain I calculate and analyse the basis of equations
-of motion of mechanical resonators. Advances in mechanical resonators provide a lot
-of opportunities to do quantum ground cooling, entangling different resonators, and
-ultrasensitive detection for tiny forces or masses. Of course, the measurement evaluation
-and experiments for these kinds of resonator's schemes are included before, during and after
-projects running.
+First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS) is a focus during my Ph.D..
+My microfabrication training in cleanroom relates to practicing and understanding lithography, dry ecthing, metal 
+deposition as well as the sample inspection and metrology.
 
-Prior to doing above, magnetically and electrically controlling two dimensional liquid
-crystals (LCs) for tuning polarized lights propragation are my major targets.
+Second, theory developing of cavity optomechanics is another key. My tasks are in calculating and analysing the basis of the equations 
+of motion of mechanical resonators in capacitive coupling schemes. Advances in mechanical resonators provide a lot of opportunities 
+for quantum ground cooling, entangling different resonators, and ultrasensitive detection of tiny forces or masses. The measurement 
+evaluation and experimentation for such resonator schemes are included before, during and after projects running.
 
-In others, nanomaterials including carbon nanotubes and graphene are my early explores.
+Prior to doing above, tuning the propagation of polarized lights through magnetically and electrically controlling
+two dimensional liquid crystals (LCs), such as hexagonal boron nitride, are my major targets.
+
+In others, nanomaterials including carbon nanotubes and graphene or more are my early explores.
 
 
 <nbsp>
