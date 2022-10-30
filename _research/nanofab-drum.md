@@ -1,5 +1,5 @@
 ---
-title: "Advanced manufacturing"
+title: "Nanofabrication"
 layout: single-portfolio
 excerpt: "<img src='/images/research/2021-06-16-SiN-drum.png' alt=''>"
 collection: research
@@ -37,7 +37,7 @@ gate structure. For the metal depositions, we first perform Ar ion etching proce
 the sample and then use with electron beam evaporation to deposition the thin films. All
 bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
 
-# Microscopic figures
+# Microscopic images
 
 SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 
