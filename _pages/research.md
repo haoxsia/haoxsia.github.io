@@ -18,8 +18,8 @@ of motion of mechanical resonators in capacitive coupling schemes. Advances in m
 for quantum ground cooling, entangling different resonators, and ultrasensitive detection of tiny forces or masses. The measurement 
 evaluation and experimentation for such resonator schemes are included before, during and after projects running.
 
-Prior to doing above, tuning the propagation of polarized lights through magnetically and electrically controlling
-two dimensional liquid crystals (LCs), such as hexagonal boron nitride, are my major targets.
+Prior to doing above, tuning the propagation of polarized lights through magnetically or electrically controlling
+two dimensional liquid crystals (LCs), such as hexagonal boron nitride, is my major target.
 
 In others, nanomaterials including carbon nanotubes and graphene or more are my early explores.
 
