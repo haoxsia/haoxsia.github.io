@@ -6,16 +6,16 @@ collection: research
 order_number: 20
 permalink: /images/
 gallery:
-  - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-etch.png
-    image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-etch.png
+  - url: https://haoxsia.github.io/images/researh/2021-06-16-SiN-drum-etch.png
+    image_path: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-etch.png
     alt: "Silicon nitride drum membrane release"
     title: "Silicon nitride drum membrane release"
-  - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-bottom.png
-    image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-bottom.png
+  - url: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-bottom.png
+    image_path: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-bottom.png
     alt: "Thin Aluminum layer deposition on the drum"
     title: "Thin Aluminum layer deposition on the drum"
-  - url: https://haoxsia.github.io/images/2021-06-16-SiN-drum-gate.png
-    image_path: https://haoxsia.github.io/images/2021-06-16-SiN-drum-gate.png
+  - url: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-gate.png
+    image_path: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-gate.png
     alt: "Thick Aluminum layer deposition as the drum's top gate"
     title: "Thick Aluminum layer deposition as the drum's top gate"
 header: 
@@ -23,7 +23,7 @@ header:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 Figure (a-g) shows the nanofabrication process of silicon nitride drum mechanical resonators.
 We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
