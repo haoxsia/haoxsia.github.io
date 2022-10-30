@@ -25,7 +25,7 @@ header:
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
-Figure (a-g) shows the nanofabrication process of silicon nitride drum mechanical resonators.
+Fig.(a-g) shows the nanofabrication process of silicon nitride drum mechanical resonators.
 We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
 holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN
 layer (SF6 : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a
@@ -39,10 +39,10 @@ bonding pads on the chip are designed to be 50 Ohm impedance for microwave signa
 
 # Microscopic figures
 
-SEM images of the fabricated mechanical resoantors are taken in our cleanroom:
+SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 
-* First image, silicon nitride drum membrane released from the Si substrate
-* Second image, thin Al layer deposited on the released SiNx drum membrane
-* Third image, thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
+* Fig.(h): Silicon nitride drum membrane released from the Si substrate
+* Fig.(i): Al layer deposited on the released SiNx drum membrane
+* Fig.(j): Thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
 {% include gallery %}
