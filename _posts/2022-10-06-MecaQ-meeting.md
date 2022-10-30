@@ -1,5 +1,5 @@
 ---
-title: ' 7th Annual Meeting: the GDR MecaQ Optomechanics'
+title: ' Poster, 7th Annual Meeting: the GDR MecaQ Optomechanics'
 date: 2022-10-06
 permalink: /posts/2022-10-06-MecaQ-meeting/
 tags:
@@ -8,9 +8,24 @@ tags:
   - nanomechanics
 ---
 
-The GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications.
+<p align="center">
+  <img src="https://haoxsia.github.io/images/posts/2022-10-30-mecaQ-7th.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications.
+
+# Tutorial talks
+
+1 h invited tutorials will be given by internationally renowned speakers who will introduce their research topic and present their latest advances. see [agenda](https://mecaqcolloq2022.sciencesconf.org/program)
+
+* Dr Ludovic Bellon, ENS de Lyon
+* Dr Jean-Charles Beugnot, FEMTO-ST Institute
+* Pr Johannes Fink, Institute of Science and Technology Austria
+* Pr Christophe Galland, EPFL
+* Pr Anja Metelmann, Karlsruhe Institute of Technology
+
 
 # MecaQ webinar series
+
 The MecaQ webinar series is a collection of monthly webinars delivered by high-profile international scientists in the fields of optomechanics and nanomechanics.
 
 * Title: Measuring the higher-order phonon statistics in a nanogram volume of superfluid helium
