@@ -9,7 +9,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/posts/2022-10-30-mecaQ-7th.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://haoxsia.github.io/images/posts/2022-10-30-mecaQ-7th.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
 7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications.
 
