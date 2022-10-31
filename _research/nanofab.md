@@ -26,7 +26,7 @@ In this set of projects, I use advanced quanitative methods to tackle the proble
 # Schematic of device fabrication
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
 Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
 We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
@@ -47,5 +47,5 @@ SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 {% include gallery %}
 
 * Fig.(h): silicon nitride drum membrane released from the Si substrate
-* Fig.(i): thin Al layer deposited on the released SiNx drum membrane
+* Fig.(i): thin Al layer deposited on the released SiN drum membrane
 * Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
