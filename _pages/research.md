@@ -15,8 +15,7 @@ deposition as well as the sample inspection and metrology.
 
 Second, theory developing of cavity optomechanics is another key. My tasks are in calculating and analysing the basis of the equations 
 of motion of mechanical resonators in capacitive coupling schemes. Advances in mechanical resonators provide a lot of opportunities for 
-quantum ground state cooling, entangling different resonators, and ultrasensitive detection of tiny forces or masses. The measurement 
-evaluation and experimentation for such resonator schemes are included before, during and after projects running.
+quantum ground state cooling, entangling different resonators, and ultrasensitive detection of tiny forces or masses.
 
 Prior to doing the above, tuning the propagation of polarized lights through magnetically or electrically controlling two dimensional
 liquid crystals (LCs), such as hexagonal boron nitride, was my major target.
