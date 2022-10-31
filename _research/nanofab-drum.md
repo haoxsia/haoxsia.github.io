@@ -4,7 +4,6 @@ layout: single-portfolio
 excerpt: "<img src='/images/research/2021-06-16-SiN-drum.png' alt=''>"
 collection: research
 order_number: 20
-permalink: /images/
 gallery:
   - url: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-etch.png
     image_path: https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-etch.png
