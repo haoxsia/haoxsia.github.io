@@ -11,7 +11,7 @@ tags:
 <p align="center">
   <img src="https://haoxsia.github.io/images/posts/2022-10-30-mecaQ-7th.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
-7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications.
+7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications. See [homepage](http://www.lkb.upmc.fr/gdr-meca-q/)
 
 # Tutorial talks
 
@@ -35,4 +35,3 @@ The MecaQ webinar series is a collection of monthly webinars delivered by high-p
 
 ------
 
-See [homepage](http://www.lkb.upmc.fr/gdr-meca-q/)
