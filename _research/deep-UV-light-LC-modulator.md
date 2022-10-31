@@ -1,5 +1,5 @@
 ---
-title: "Deep UV light modulator"
+title: "DUV light LC modulator"
 layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
