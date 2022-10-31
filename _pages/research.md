@@ -19,9 +19,9 @@ for quantum ground cooling, entangling different resonators, and ultrasensitive 
 evaluation and experimentation for such resonator schemes are included before, during and after projects running.
 
 Prior to doing above, tuning the propagation of polarized lights through magnetically or electrically controlling
-two dimensional liquid crystals (LCs), such as hexagonal boron nitride, is my major target.
+two dimensional liquid crystals (LCs), such as hexagonal boron nitride, was my major target.
 
-In others, nanomaterials including carbon nanotubes and graphene or more are my early explores.
+In other respects, the use of nanomaterials including carbon nanotubes and graphene or more was my early exploration.
 
 
 <nbsp>
