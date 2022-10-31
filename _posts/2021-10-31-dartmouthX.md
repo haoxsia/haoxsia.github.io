@@ -23,7 +23,6 @@ This course introduces a few engineering concepts related to structures. Its int
 
 # Shear and Bending
 * Introduction, Lessons and Examples
-* Lessons and Examples
 * Activity: Build a Cardboard Beam or Shelf
 * General Discussion
 
