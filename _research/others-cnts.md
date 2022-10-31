@@ -1,5 +1,5 @@
 ---
-title: "Carbon nanotubes applications"
+title: "Others: CNTs"
 layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
