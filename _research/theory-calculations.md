@@ -1,5 +1,5 @@
 ---
-title: "Coupling different resonators"
+title: "Theory calculations"
 layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
