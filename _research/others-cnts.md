@@ -1,5 +1,5 @@
 ---
-title: "Others: CNTs"
+title: "Others: carbon nanotubes"
 layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
