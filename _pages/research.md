@@ -21,7 +21,7 @@ evaluation and experimentation for such resonator schemes are included before, d
 Prior to doing the above, tuning the propagation of polarized lights through magnetically or electrically controlling two dimensional
 liquid crystals (LCs), such as hexagonal boron nitride, was my major target.
 
-In other respects, the use of nanomaterials including carbon nanotubes and graphene or more was my early exploration.
+In other respects, the use of nanomaterials including carbon nanotubes (CNTs) and graphene or more was my early exploration.
 
 
 <nbsp>
