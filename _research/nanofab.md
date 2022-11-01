@@ -21,7 +21,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-nanofab.png"
 ---
 
-With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies are drawing increasingly attention for nano/microscale devices, such as breath/blood pressure sensors in health monitoring, microfluidics in biological analysis, accelerators and gyroscope in mobile phones, and RF components in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
+With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring, microfluidics in biological analysis, accelerators and gyroscope in mobile phones, and RF components in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
 
 # Schematic of device fabrication
 
