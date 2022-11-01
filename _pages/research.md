@@ -17,8 +17,7 @@ Second, theory calculations of cavity optomechanics is another key. My goals are
 of motion of mechanical resonators in capacitive coupling schemes. With the calculations, mechanical resonators provide a lot of opportunities for 
 quantum engineering, different resonators entangling, and ultrasensitive detection of tiny forces or motions.
 
-Prior to doing the above, my major target was to tune the propagation of polarized lights through magnetically or electrically controlling two dimensional
-liquid crystals (LCs), such as hexagonal boron nitride.
+Prior to doing the above, my major target was to tune the propagation of polarized lights through magnetically or electrically stimulating the alignment of two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
 In other respects, the use of nanomaterials including carbon nanotubes (CNTs) and graphene or more was my early exploration.
 
