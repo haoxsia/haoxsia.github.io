@@ -21,7 +21,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-nanofab.png"
 ---
 
-In this set of projects, I use advanced quanitative methods to tackle the problem of more accurately measuring concepts of interest in international relations. One uses Bayesian latent variable models to directly assess the strength of peace agreements in civil conflict rather than having to use agreement duration as a proxy for strength. Another harnesses advances in big data and develops new measures of economic interdependence and methods for detecting disruptions of regular economic exchange between states from a product-level trade dataset with over two billion observations.
+With the development of microelectronics and semiconducting industries, nano-/micro-manufacturing technologies are drawing increasingly attention for nano/microscale devices, such as breath/blood pressure sensors in health monitoring, microfluidics in biological analysis, accelerators and gyroscope in cell phones, and RF NEMS/MEMS in mordern industries. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
 
 # Schematic of device fabrication
 
