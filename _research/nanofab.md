@@ -50,6 +50,8 @@ SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 * Fig.(i): thin Al layer deposited on the released SiN drum membrane
 * Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
+------
+
 [^1]: Ruth, Sara Rachel Arussy, Vivian Rachel Feig, Helen Tran, and Zhenan Bao. Microengineering pressure sensor active layers for improved performance. Advanced Functional Materials 30, no. 39 (2020): 2003491
 [^2]: Koh, Ahyeon, Daeshik Kang, Yeguang Xue et al. A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat. Science translational medicine 8, no. 366 (2016): 366ra165-366ra16
 [^3]: Kononchuk, Rodion, Jizhe Cai, Fred Ellis et al. Exceptional-point-based accelerometers with enhanced signal-to-noise ratio. Nature 607, no. 7920 (2022): 697-702
