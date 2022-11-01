@@ -21,7 +21,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-nanofab.png"
 ---
 
-With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring [^1], microfluidics [^2] in biological analysis, accelerators [^3] and gyroscope [^4] in mobile phones, and RF components [^5] in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
+With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring [^1], microfluidics [^2] in biological analysis, accelerators [^3] and gyroscopes [^4] in mobile phones, and RF components [^5] in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
 
 # Schematic of device fabrication
 
@@ -50,13 +50,9 @@ SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 * Fig.(i): thin Al layer deposited on the released SiN drum membrane
 * Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
 
-[^1] Ruth, Sara Rachel Arussy, Vivian Rachel Feig, Helen Tran, and Zhenan Bao. Microengineering pressure sensor active layers for improved performance. Advanced Functional Materials 30, no. 39 (2020): 2003491
-
-[^2] Koh, Ahyeon, Daeshik Kang, Yeguang Xue et al. A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat. Science translational medicine 8, no. 366 (2016): 366ra165-366ra165
-
-[^3] Kononchuk, Rodion, Jizhe Cai, Fred Ellis et al. Exceptional-point-based accelerometers with enhanced signal-to-noise ratio. Nature 607, no. 7920 (2022): 697-702
-
-[^4] Howell, John C., Merav Kahn, Einav Grynszpan et al. Doppler Gyroscopes: Frequency vs Phase Estimation. Physical Review Letters 129, no. 11 (2022): 113901
-
-[^5] Sharaf, A., A. Nasr, A. M. Elshurafa et al. Design analysis and simulation of a digital RF MEMS varactor with high capacitive ratio. Microsystem Technologies 28, no. 8 (2022): 1831-1844
+[^1]: Ruth, Sara Rachel Arussy, Vivian Rachel Feig, Helen Tran, and Zhenan Bao. Microengineering pressure sensor active layers for improved performance. Advanced Functional Materials 30, no. 39 (2020): 2003491
+[^2]: Koh, Ahyeon, Daeshik Kang, Yeguang Xue et al. A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat. Science translational medicine 8, no. 366 (2016): 366ra165-366ra16
+[^3]: Kononchuk, Rodion, Jizhe Cai, Fred Ellis et al. Exceptional-point-based accelerometers with enhanced signal-to-noise ratio. Nature 607, no. 7920 (2022): 697-702
+[^4]: Howell, John C., Merav Kahn, Einav Grynszpan et al. Doppler Gyroscopes: Frequency vs Phase Estimation. Physical Review Letters 129, no. 11 (2022): 113901
+[^5]: Sharaf, A., A. Nasr, A. M. Elshurafa et al. Design analysis and simulation of a digital RF MEMS varactor with high capacitive ratio. Microsystem Technologies 28, no. 8 (2022): 1831-1844
 
