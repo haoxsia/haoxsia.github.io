@@ -25,6 +25,8 @@ With the development of microelectronics and semiconductor industry, nano-/micro
 
 # Schematic of device fabrication
 
+Silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g. tensile stress) are promising devices for fundamental research and applicatons. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator, exhibiting outperforming abilities to detect many mechanical modes and building an optomechanical platform with an external mircowave cavity.
+
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
