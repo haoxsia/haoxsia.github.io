@@ -9,7 +9,7 @@ header:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 475px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees of freedom (e.g. displacement) to couple with electrical signals are promising devices for fundamental research, in particular for sensing tiny mass [^1], force [^2] and motion [^3]. Recent examples have implemented the nonlinearity or mechanical transduction design to realize logic gates [^4] or RF amplifiers [^5]. Nowadays, the phonon-cavity schemes existed in optomechanics have been explored for investigating electromechanical coupling. Similar to light-matter interaction in the optical domain, optomechanics consisting of mechanical phonons coupled to "microwave" cavity phonons enables a phenomenon of "phonon" interferences. In very recent years, the coupling between two different individual mechanical resonators in microwave circuits has been built for observing their entanglement [^6]. The coupling between multimodes in single mechanical resonator has also been created for sensing a single nanoparticle [^7]. For these reasons, the establishment of the coupling between different resonators with compact structures is still promising.
@@ -19,7 +19,7 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 Silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g. tensile stress) are promising devices for fundamental research and applications. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator.
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 475px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
 Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
