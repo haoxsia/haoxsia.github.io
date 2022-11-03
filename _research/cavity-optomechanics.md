@@ -16,23 +16,11 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 
 # Schematic of coupling two distinct mechanical resonators
 
-Silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g. tensile stress) are promising devices for fundamental research and applications. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator.
-
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
-We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
-holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN
-layer (SF6 : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a
-selective XeF2 silicon etching. These holes occupy about 40 % ~ 45 % of the SiN drum area.
-Its suspended top-gate is fabricated by using EB resist PMMA as a top-gate support through
-soft-bake at the temperature of 140 centidegree and reflowed at 180 centidegree. Then, we deposit the second
-layer EB resist MMA (methyl methacrylate) on the top of the support resist and pattern the
-gate structure. For the metal depositions, we first perform Ar ion etching process to clean
-the sample and then use with electron beam evaporation to deposition the thin films. All
-bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
+Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc =2 V, Vac =2 mV and 0.2 mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
 
 # Strategy of spectrum operation of red/blue sideband pumping SiN drum
 SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
