@@ -22,12 +22,19 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 
 Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc =2 V, Vac =2 mV and 0.2 mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
 
-# Strategy of spectrum operation of red/blue sideband pumping SiN drum
-SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
+# Strategy of spectrum operation of red/blue sideband pumping schemes for the Al and the SiN drum
 
-* Fig.(h): silicon nitride drum membrane released from the Si substrate
-* Fig.(i): thin Al layer deposited on the released SiN drum membrane
-* Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
+<p align="center">
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+
+Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum, while probing the signal from SiN drum at a its near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone down-conversion and up-conversion processes. (b) Simulated mechanical responses of the SiN drum, corresponding to red/blue sideband pumping of the phonon cavity (a).
+
+<p align="center">
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+
+Figs.(a) Red/blue sideband pumping scheme of the Al drum, while probing the signal from Al drum at a near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the Al drum (a).
 
 # Electromechanically induced transparecy and amplification in two capacitively coupled drums
 SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
