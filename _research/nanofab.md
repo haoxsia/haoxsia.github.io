@@ -41,7 +41,7 @@ gate structure. For the metal depositions, we first perform Ar ion etching proce
 the sample and then use with electron beam evaporation to deposition the thin films. All
 bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
 
-# Microscopic images of devices
+# Image gallery of devices
 
 SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
 
