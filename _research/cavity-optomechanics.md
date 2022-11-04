@@ -42,7 +42,7 @@ Figs.(a) Red/blue sideband pumping scheme of the Al drum, while probing the sign
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency/cooling). (b) electromechanical response of the phonon cavity (probe SiN drum) measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 1mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (c) simulated electromechanical response of the phonon cavity corresponding to (b). (d) Spectrum operation of a blue sideband pumping scheme (amplification). (e) the phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (f) simulated mechanical response of the phonon cavity corresponding to (e).
+Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely cooling). (b) electromechanical response of the phonon cavity (probe SiN drum) measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 1mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (c) simulated electromechanical response of the phonon cavity corresponding to (b). (d) Spectrum operation of a blue sideband pumping scheme (amplification). (e) the phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (f) simulated mechanical response of the phonon cavity corresponding to (e).
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -54,7 +54,8 @@ Figs.(a) Spectrum operation of a blue sideband pumping scheme (amplification). (
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Red/blue sideband pumping scheme of the Al drum, while probing the signal from Al drum at a near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
+Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) electromechanical response of the Al drum (probe Al drum) measured with driving amplitudes Vdc = 2V, Vac(Ωd) = 3mV, Vac(Ωp) = 100mV and probed at Ωd = Ω2 + δ. (c) simulated electromechanical response of the Al drum corresponding to (b).
+
 
 ------
 
