@@ -20,7 +20,7 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc =2 V, Vac =2 mV and 0.2 mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
+Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc = 2V, Vac = 2mV and 0.2mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
 
 # Strategy of spectrum operation of red/blue sideband pumping schemes for the Al and the SiN drum
 
@@ -42,19 +42,19 @@ Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) electromechanical response of the phonon cavity (probe SiN drum) measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 1mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (c) simulated electromechanical response of the phonon cavity corresponding to (b). (d) Spectrum operation of a blue sideband pumping scheme (amplification). (e) the phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (f) simulated mechanical response of the phonon cavity corresponding to (e).
+Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) Electromechanical response of the phonon cavity (probe SiN drum) measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 1mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (c) Simulated electromechanical response of the phonon cavity corresponding to (b). (d) Spectrum operation of a blue sideband pumping scheme (amplification). (e) The phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (f) Simulated mechanical response of the phonon cavity corresponding to (e).
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a blue sideband pumping scheme (amplification). (b) Vivid sketch of two capacitively coupled Al and SiN drums. (c) the phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (d) simulated mechanical response of the phonon cavity corresponding to (c). (e) when the SiN drum is probed, mechanical response of Al drum simultaneously measured the corresponding spectra at the frequency difference Ωp −Ωd. (f) simulated electromechanical response of Al drum corresponding to (e).
+Figs.(a) Spectrum operation of a blue sideband pumping scheme (amplification). (b) Vivid sketch of two capacitively coupled Al and SiN drums. (c) The phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (d) Simulated mechanical response of the phonon cavity corresponding to (c). (e) When the SiN drum is probed, mechanical response of Al drum simultaneously measured the corresponding spectra at the frequency difference Ωp −Ωd. (f) Simulated electromechanical response of Al drum corresponding to (e).
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) electromechanical response of the Al drum (probe Al drum) measured with driving amplitudes Vdc = 2V, Vac(Ωd) = 3mV, Vac(Ωp) = 100mV and probed at Ωd = Ω2 + δ. (c) simulated electromechanical response of the Al drum corresponding to (b).
+Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) Electromechanical response of the Al drum (probe Al drum) measured with driving amplitudes Vdc = 2V, Vac(Ωd) = 3mV, Vac(Ωp) = 100mV and probed at Ωd = Ω2 + δ. (c) Simulated electromechanical response of the Al drum corresponding to (b).
 
 
 ------
