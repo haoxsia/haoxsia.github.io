@@ -28,13 +28,13 @@ Figs.(a) Schematic diagram of the measurement setup. Both electromechanical reso
   <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum, while probing the signal from SiN drum at a its near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone down-conversion and up-conversion processes. (b) Simulated mechanical responses of the SiN drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the SiN drum when there is no pump tone.
+Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω1 -(+) Ω2 + Δ, while probing the signal from SiN drum at frequency Ωd = Ω1 + δ. The red/blue arrow curves correspond to the probe and pump tone down-conversion and up-conversion processes. (b) Simulated mechanical responses of the SiN drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the SiN drum when there is no pump tone.
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Red/blue sideband pumping scheme of the Al drum, while probing the signal from Al drum at a near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
+Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω1 -(+) Ω2 + Δ, while probing the signal from Al drum at frequency Ωd = Ω2 + δ. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
 
 # Electromechanically induced transparecy and amplification in two capacitively coupled drums
 
