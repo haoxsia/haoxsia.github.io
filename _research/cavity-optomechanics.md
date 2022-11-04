@@ -48,7 +48,7 @@ Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency/co
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Red/blue sideband pumping scheme of the Al drum, while probing the signal from Al drum at a near resonance frequency with a shift of small detuning. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
+Figs.(a) Spectrum operation of a blue sideband pumping scheme (amplification). (b) Vivid sketch of two capacitively coupled Al and SiN drums. (c) the phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (d) simulated mechanical response of the phonon cavity corresponding to (c). (e) when the SiN drum is probed, mechanical response of Al drum simultaneously measured the corresponding spectra at the frequency difference Ωp −Ωd. (f) simulated electromechanical response of Al drum corresponding to (e).
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
