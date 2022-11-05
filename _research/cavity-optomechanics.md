@@ -8,6 +8,11 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-theory.png"
 ---
 
+> Outline:
+> * Schematic of coupling two distinct mechanical resonators
+> * Strategy of spectrum operation of red/blue sideband pumping schemes for the Al and the SiN drum
+> * Electromechanically induced transparecy and amplification in two capacitively coupled drums
+
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
