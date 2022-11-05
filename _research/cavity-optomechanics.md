@@ -13,7 +13,7 @@ header:
 > * Strategy of spectrum operation of red/blue sideband pumping schemes
 > * Electromechanically induced transparecy and amplification
 
-[Article](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf){: .btn--research} [Supporting Information](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848.){: .btn--research} [Nanofab](https://haoxsia.github.io/research/nanofab/){: .btn--research}
+[Article](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf){: .btn--research} [Supporting Information](https://pubs.acs.org/doi/suppl/10.1021/acs.nanolett.2c01848/suppl_file/nl2c01848_si_001.pdf){: .btn--research} [Nanofab](https://haoxsia.github.io/research/nanofab/){: .btn--research}
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
