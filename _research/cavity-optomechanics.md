@@ -8,10 +8,10 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-theory.png"
 ---
 
-> Outline:
+> Outline (a not too short story to two drums electromechanical coupling):
 > * Schematic of coupling two distinct mechanical resonators
-> * Strategy of spectrum operation of red/blue sideband pumping schemes for the Al and the SiN drum
-> * Electromechanically induced transparecy and amplification in two capacitively coupled drums
+> * Strategy of spectrum operation of red/blue sideband pumping schemes
+> * Electromechanically induced transparecy and amplification
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -27,7 +27,7 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 
 Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc = 2V, Vac = 2mV and 0.2mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
 
-# Strategy of spectrum operation of red/blue sideband pumping schemes for the Al and the SiN drum
+# Strategy of spectrum operation of red/blue sideband pumping schemes
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
