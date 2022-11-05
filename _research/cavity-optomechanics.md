@@ -8,7 +8,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-theory.png"
 ---
 
-> Outline (a not too short story to two drums electromechanical coupling):
+> Outline (a not too short story of two drums electromechanical coupling):
 > * Schematic of coupling two distinct mechanical resonators
 > * Strategy of spectrum operation of red/blue sideband pumping schemes
 > * Electromechanically induced transparecy and amplification
