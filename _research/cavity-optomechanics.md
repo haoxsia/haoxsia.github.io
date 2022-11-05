@@ -21,7 +21,7 @@ header:
 
 Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees of freedom (e.g. displacement) to couple with electrical signals are promising devices for fundamental research, in particular for sensing tiny mass [^1], force [^2] and motion [^3]. Recent examples have implemented the nonlinearity or mechanical transduction design to realize logic gates [^4] or RF amplifiers [^5]. Nowadays, the phonon-cavity schemes existed in optomechanics have been proposed for investigating electromechanical coupling. Similar to light-matter interaction in the optical domain, optomechanics consisting of "mechanical" phonons coupled to "microwave" cavity phonons enables phenomena of "phonon" interferences. In very recent years, two different individual mechanical resonators in capacitively coupled schemes have been built for observing their entanglement [^6]. The multimode optomechanical sensing in single mechanical resonator has also been created for sensing a single nanoparticle [^7]. For these reasons, the establishment of the coupling between different resonators with compact structures is still promising.
 
-# Schematic of coupling two distinct mechanical resonators
+## Schematic of coupling two distinct mechanical resonators
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -29,7 +29,7 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 
 Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc = 2V, Vac = 2mV and 0.2mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
 
-# Strategy of spectrum operation of red/blue sideband pumping schemes
+## Strategy of spectrum operation of red/blue sideband pumping schemes
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -43,7 +43,7 @@ Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω
 
 Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω1 -(+) Ω2 + Δ, while probing the signal from Al drum at frequency Ωd = Ω2 + δ. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
 
-# Electromechanically induced transparecy and amplification in two capacitively coupled drums
+## Electromechanically induced transparecy and amplification in two capacitively coupled drums
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
