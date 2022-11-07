@@ -9,9 +9,9 @@ header:
 ---
 
 Outline (this page is a short version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
-* Schematic of capacitively coupling two distinct mechanical resonators
-* Strategy of spectrum operation of red/blue sideband pumping schemes
-* Electromechanically induced transparency and amplification
+1. Schematic of capacitively coupling two distinct mechanical resonators
+2. Strategy of spectrum operation of red/blue sideband pumping schemes
+3. Electromechanically induced transparency and amplification
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
