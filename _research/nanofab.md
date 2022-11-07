@@ -48,9 +48,9 @@ Outline (this page shortly introduces our development of the device, see our pap
 
 ------
 
-[^1]: Ruth, Sara Rachel Arussy, Vivian Rachel Feig, Helen Tran, and Zhenan Bao. Microengineering pressure sensor active layers for improved performance. Advanced Functional Materials 30, no. 39 (2020): 2003491
-[^2]: Koh, Ahyeon, Daeshik Kang, Yeguang Xue et al. A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat. Science translational medicine 8, no. 366 (2016): 366ra165-366ra16
-[^3]: Kononchuk, Rodion, Jizhe Cai, Fred Ellis et al. Exceptional-point-based accelerometers with enhanced signal-to-noise ratio. Nature 607, no. 7920 (2022): 697-702
-[^4]: Howell, John C., Merav Kahn, Einav Grynszpan et al. Doppler Gyroscopes: Frequency vs Phase Estimation. Physical Review Letters 129, no. 11 (2022): 113901
-[^5]: Sharaf, A., A. Nasr, A. M. Elshurafa et al. Design analysis and simulation of a digital RF MEMS varactor with high capacitive ratio. Microsystem Technologies 28, no. 8 (2022): 1831-1844
+[^1]: Ruth, Sara Rachel Arussy, Vivian Rachel Feig, Helen Tran, and Zhenan Bao. "Microengineering pressure sensor active layers for improved performance." Advanced Functional Materials 30, no. 39 (2020): 2003491.
+[^2]: Koh, Ahyeon, Daeshik Kang, Yeguang Xue, Seungmin Lee, Rafal M. Pielak, Jeonghyun Kim, Taehwan Hwang et al. "A soft, wearable microfluidic device for the capture, storage, and colorimetric sensing of sweat." Science translational medicine 8, no. 366 (2016): 366ra165-366ra165.
+[^3]: Kononchuk, Rodion, Jizhe Cai, Fred Ellis, Ramathasan Thevamaran, and Tsampikos Kottos. "Exceptional-point-based accelerometers with enhanced signal-to-noise ratio." Nature 607, no. 7920 (2022): 697-702.
+[^4]: Howell, John C., Merav Kahn, Einav Grynszpan, Ziv Roi Cohen, Stefania Residori, and Umberto Bortolozzo. "Doppler Gyroscopes: Frequency vs Phase Estimation." Physical Review Letters 129, no. 11 (2022): 113901.
+[^5]: Sharaf, A., A. Nasr, A. M. Elshurafa, and M. Serry. "Design analysis and simulation of a digital RF MEMS varactor with high capacitive ratio." Microsystem Technologies 28, no. 8 (2022): 1831-1844.
 
