@@ -11,7 +11,7 @@ header:
 > Outline (this page is a minimal version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
 > * Schematic of capacitively coupling two distinct mechanical resonators
 > * Strategy of spectrum operation of red/blue sideband pumping schemes
-> * Electromechanically induced transparecy and amplification
+> * Electromechanically induced transparency and amplification
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -42,7 +42,7 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
 
 > When probing the Al drum, **Fig.(a)** shows that the probe and pump tones create a phonon cavity force acting on the unprobed SiN drum, marked by red arrow curve. At the same moment, these created mechanical phonons are fed back to the probed Al drum resonator, marked by grey in the inverse process. An interference therefore is built between these phonons acting on the unprobed SiN drum (related to the term $n_{p}g_{0}^2χ_{1}$ or $n_{p}g_{0}^2χ_{1}^* $) and initial probed phonons (related to the term $χ_{2}$). It is worth to note in our case the phonon cavity damping rate is about two orders of magnitude smaller than that of the coupled Al drum. As known in the motion equation with a probe signal of the coupled Al drum, the damping rate of the unprobed SiN drum (related to the term $n_{p}g_{0}^2χ_{1}$ or $n_{p}g_{0}^2χ_{1}^* $) determines the frequency bandwidth of the transparency or amplification effects. **Fig.(b)** shows the Lorentzian curve of the mechanical response of the probed Al drum exhibiting a narrow dip inside the bandwidth of the transparency window due to $γ_{SiN}<γ_{Al}$. This phenomenon is observed for investigating the control of the transparency and amplification by means of engineering the mechanical damping rate in the phonon-cavity optomechanical system.
 
-## Electromechanically induced transparecy and amplification
+## Electromechanically induced transparency and amplification
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
