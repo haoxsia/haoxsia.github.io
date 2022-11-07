@@ -9,7 +9,7 @@ header:
 ---
 
 > Outline (this page is a minimal version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
-> * Schematic of coupling two distinct mechanical resonators
+> * Schematic of capacitively coupling two distinct mechanical resonators
 > * Strategy of spectrum operation of red/blue sideband pumping schemes
 > * Electromechanically induced transparecy and amplification
 
@@ -19,7 +19,7 @@ header:
 
 Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees of freedom (e.g. displacement) to couple with electrical signals are promising devices for fundamental research, in particular for sensing tiny mass [^1], force [^2] and motion [^3]. Recent examples have implemented the nonlinearity or mechanical transduction design to realize logic gates [^4] or RF amplifiers [^5]. Nowadays, the phonon-cavity schemes existed in optomechanics have been proposed for investigating electromechanical coupling. Similar to light-matter interaction in the optical domain, optomechanics consisting of "mechanical" phonons coupled to "microwave" cavity phonons enables phenomena of "phonon" interferences. In very recent years, two different individual mechanical resonators in capacitively coupled schemes have been built for observing their entanglement [^6]. The multimode optomechanical sensing in single mechanical resonator has also been created for sensing a single nanoparticle [^7]. For these reasons, the establishment of the coupling between different resonators with compact structures is still promising.
 
-## Schematic of coupling two distinct mechanical resonators
+## Schematic of capacitively coupling two distinct mechanical resonators
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
