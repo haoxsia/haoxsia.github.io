@@ -57,7 +57,7 @@ Outline (this page is a short version of our paper [here](https://pubs.acs.org/d
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-> When still probing the phonon cavity (the SiN drum), we simultaneously measure the electromechanical responses of the probed SiN and unprobed Al drums at blue sideband pumping scheme. **Fig.(c)** clearly demonstrates a constructive interference when the probed signal is amplified within the interference window. Simultaneously, **Fig.(e)** indicates phonon generation detected in the mechanical mode of the unprobed Al drum resonator. This phenomenon manifests the electromechanical coupling between two drums “dancing” at the same time.
+> When still probing the phonon cavity (the SiN drum), we simultaneously measure the electromechanical responses of the probed SiN and unprobed Al drums at blue sideband pumping. **Fig.(b)** shows a vivid sketch of two capacitively coupled Al and SiN drums. **Fig.(c)** clearly demonstrates a constructive interference when the probed signal is amplified within the interference window. Simultaneously, **Fig.(e)** indicates phonon generation detected in the mechanical mode of the unprobed Al drum resonator. This phenomenon manifests the electromechanical coupling between two drums “dancing” at the same time.
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
