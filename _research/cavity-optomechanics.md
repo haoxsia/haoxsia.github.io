@@ -8,12 +8,10 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-theory.png"
 ---
 
-> Outline (a not too short story of two drums electromechanical coupling):
+> Outline (this page is a minimal version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
 > * Schematic of coupling two distinct mechanical resonators
 > * Strategy of spectrum operation of red/blue sideband pumping schemes
 > * Electromechanically induced transparecy and amplification
-
-[Article](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf){: .btn--research} [Supporting Information](https://pubs.acs.org/doi/suppl/10.1021/acs.nanolett.2c01848/suppl_file/nl2c01848_si_001.pdf){: .btn--research} [Nanofab](https://haoxsia.github.io/research/nanofab/){: .btn--research}
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
@@ -27,41 +25,50 @@ Nano-/micro-electromechanical systems (NEMS/MEMS) that allow mechanical degrees 
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-schematic.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Schematic diagram of the measurement setup. Both electromechanical resonators are driven by low-frequency signals combined with RF and dc signals. The mechanical displacement is imprinted in the reflected microwave signals and read out by a lockin amplifier through frequency down conversion. (b) The inset schematic shows across-sectional view ofthe device structure. (c) Linear resonance response of the Al drum resonator (upper) and SiN drum resonator (lower), which are measured at Vdc = 2V, Vac = 2mV and 0.2mV respectively. The inset figures show the corresponding mechanical mode shapes obtained from finite element simulations.
+> Here, we present coherent energy transfers between two capacitively coupled and distinct mechanical resonators. As Fig(a) shows, the two mechanical resonators embedded in the electrical integrated circuits can be independently driven by the signals from RF1 and RF2. At the same moment, they can also be independently detected with probed and reflected signals from microwave source. Fig(b) shows the device architecture of the mechanical resonator consisting of a SiN drum membrane coupled to a suspended Al drum membrane. In this work, we did the nanofabrication of the SiN drum membrane with 80nm thickness and 18um diameter, and the Al drum membrane with 550nm thickness and 20um diameter (see nanofab). Fig(c) demonstrates the linear resonance responses of the Al drum and SiN drum mechanical resonators, showing the Al drum with a low frequency of 2.95 MHz and the SiN drum with a high frequency of 11.79 MHz. We therefore investigate such two mechanical resonators by using the mechanical mode (the SiN drum) with higher resonance frequency as a phonon cavity and pumping this cavity with a signal with frequency difference ∼Ω1 ±Ω2, also so called red/blue sideband pumping, where Ω2 is the low resonance frequency from the other mode (the Al drum).
 
-## Strategy of spectrum operation of red/blue sideband pumping schemes
+## Electromechanical capacitive coupling model
 
-<p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
-</p>
 
-Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω1 -(+) Ω2 + Δ, while probing the signal from SiN drum at frequency Ωd = Ω1 + δ. The red/blue arrow curves correspond to the probe and pump tone down-conversion and up-conversion processes. (b) Simulated mechanical responses of the SiN drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the SiN drum when there is no pump tone.
+## Strategy of spectrum operation of red/blue sideband pumping
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-SiN-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Red/blue sideband pumping scheme of the phonon cavity SiN drum Ωp = Ω1 -(+) Ω2 + Δ, while probing the signal from Al drum at frequency Ωd = Ω2 + δ. The red/blue arrow curves correspond to the probe and pump tone up-conversion and down-conversion processes. (b) Simulated mechanical responses of the Al drum, corresponding to red/blue sideband pumping of the phonon cavity in (a). The grey curves in (b) are the mechanical responses of the Al drum when there is no pump tone.
+> As for the signal probed at the phonon cavity ( the SiN drum), we present our strategy of spectrum operation of red/blue sideband pumping schemes in these two capacitively coupled SiN and Al drums. In this two-tone scheme, the electromechanical interactions between two coupled mechanical resonators, in parallel to light-matter interaction in optical domain, can be decomposed into two coherent processes in order to describe the transfers of energy in the form of phonons. Fig(a) shows the spectrum operation of the probed SiN drum, the probe and pump tones create a phonon cavity force acting on the unprobed Al drum that excites the mechanical vibrations, processively marked by red arrow curve in Fig (a). at same moment, these created mechanical phonons are fed back to the probed drum resonator, marked by grey in the inverse process. Therefore, an interference is built between these phonons acting on the unprobed Al drum (related to the term n_p g_0^2 χ_2) and initial probed phonons (related to the term χ_1). This interference phenomena can be either destructive or constructive depending on the phonon cavity (the SiN drum) pumped at red/blue sidebands. As known in the motion equation with a probe signal at the phonon cavity (the SiN drum), the damping rate of the unprobed Al drum (related to the term n_p g_0^2 χ_2) determines the frequency bandwidth of the transparency (red sideband) and amplification (blue sideband) of the phonon cavity. Fig(b) shows the probed signal suppressed fully when red sideband pumping at the phonon cavity, and probed signal getting the larger peak amplification when blue sideband pumping at the phonon cavity. 
+
+
+<p align="center">
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-spectrum-operation-probe-Al-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
+</p>
+
+> As for the signal probed at the couple Al drum in this two-tone scheme, Fig(a) shows the spectrum operation of the probed Al drum, the probe and pump tones create a phonon cavity force acting on the unprobed SiN drum, processively marked by red arrow curve in Fig (a). At same moment, these created mechanical phonons are fed back to the probed drum resonator, marked by grey in the inverse process. An interference therefore is built between these phonons acting on the unprobed SiN drum (related to the term n_p g_0^2 χ_1 or n_p g_0^2 χ_1^* ) and initial probed phonons (related to the term χ_2). It is worth to note in our case the phonon cavity damping rate is two orders of magnitude smaller than that of the coupled Al drum. As known in the motion equation with a probe signal on the coupled Al drum, the damping rate of the unprobed Si drum (related to the term n_p g_0^2 χ_1 or n_p g_0^2 χ_1^*) determines the frequency bandwidth of the transparency and amplification effects. Fig(b) shows the Lorentzian curve of the mechanical response of the probed Al drum exhibiting a narrow dip inside the bandwidth of the transparency window due to the γ_SiN<γ_Al. This phenomenon is proposed for investigating the control of the transparency or amplification by means of engineering the mechanical damping rate in the phonon-cavity optomechanical system.
 
 ## Electromechanically induced transparecy and amplification in two capacitively coupled drums
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-T-A-probe-SiN-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) Electromechanical response of the phonon cavity (probe SiN drum) measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 1mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (c) Simulated electromechanical response of the phonon cavity corresponding to (b). (d) Spectrum operation of a blue sideband pumping scheme (amplification). (e) The phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (f) Simulated mechanical response of the phonon cavity corresponding to (e).
+> Through controlling the electromechanical energy transfers in the form of phonons, we experimentally demonstrate electomechanically induced transparency and amplification of the input signal so that the coupled system creating signal interferences is established.
+> As for the probe signal acting on the SiN drum, we measure the mechanical responses of the coupled drum resonators as a function of the pump tone detuning Δ and the probe frequency detuning δ, as shown in Fig(b,e), in red/blue sideband pumping schemes. These measurements clearly indicate that the damping rate of the interference window corresponding to the pump tone detuning Δ is related to the unprobed Al drum. Here, the unprobed Al drum can be as a phonon transfer station. Within the bandwidth of the unprobed Al drum resonator, phonons can be generated due to the interaction between probe and pump tone, and can coherently create destructive in Fig(b) or constructive in Fig(e) interferences with the probe tone.
+
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-EI-coupling-probe-SiN-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a blue sideband pumping scheme (amplification). (b) Vivid sketch of two capacitively coupled Al and SiN drums. (c) The phonon-cavity response measured with driving amplitudes Vdc = 4V, Vac(Ωd) = 0.7mV, Vac(Ωp) = 70mV and probed at Ωd = Ω1 + δ. (d) Simulated mechanical response of the phonon cavity corresponding to (c). (e) When the SiN drum is probed, mechanical response of Al drum simultaneously measured the corresponding spectra at the frequency difference Ωp −Ωd. (f) Simulated electromechanical response of Al drum corresponding to (e).
+> As still for the probe signal acting on the SiN drum, we simultaneously measure the electromechanical responses of the probed SiN and unprobed Al drums as shown in Fig(c,e) in a blue sideband pumping scheme. Fig(c) clearly demonstrates a constructive interference when the probed signal is amplified within the interference window. Simultaneously, Fig(e) indicates phonon generation detected in the mechanical mode of the unprobed Al drum resonator. This phenomenon manifests the electromechanical coupling between two drums “dancing” at the same time.
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al.png?raw=true" alt="Photo" style="width: 600px;"/> 
+  <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-Figs.(a) Spectrum operation of a red sideband pumping scheme (EI transparency, namely sideband cooling). (b) Electromechanical response of the Al drum (probe Al drum) measured with driving amplitudes Vdc = 2V, Vac(Ωd) = 3mV, Vac(Ωp) = 100mV and probed at Ωd = Ω2 + δ. (c) Simulated electromechanical response of the Al drum corresponding to (b).
+> As for the probe signal acting on the Al drum in a red sideband pumping scheme, Fig(b) shows a destructive interference of the mechanical response of the probed Al drum when the probed signal is de-amplified within the interference window. It is worth to notice that in this case the measurement result in Fig(b) is splitting within the transparency window due to the γ_SiN<γ_Al. This is because the damping rate of the unprobed Si drum (related to the term n_p g_0^2 χ_1) determines the frequency bandwidth of the transparency effect of the Al drum.
+
+In brief, the basics of motions of the capacitively coupled SiN and Al drums have been demonstrated here, including the nanofabrication of the structure, the analysis of the electromechanical capacitively coupling model, the strategy of spectrum operation of red/blue sidebands as well as the electromechanically induced transparency/amplifications. More detailed see our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)
+
 
 
 ------
