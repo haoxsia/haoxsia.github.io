@@ -21,15 +21,24 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-nanofab.png"
 ---
 
-With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring [^1], microfluidics [^2] in biological analysis, accelerators [^3] and gyroscopes [^4] in mobile phones, and RF components [^5] in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world.
+Outline (this page shortly introduces our development of the device, see our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01477)):
 
-# Schematic of device fabrication
-Silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g. tensile stress) are promising devices for fundamental research and applications. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator.
+1. Preface
+2. Device fabrication
+3. Device gallery
+
+## Preface
+
+> With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring [^1], microfluidics [^2] in biological analysis, accelerators [^3] and gyroscopes [^4] in mobile phones, and RF components [^5] in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied for microscale integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world. Today, silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g. tensile stress) are promising devices for fundamental research and applications. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator.
+
+
+## Device fabrication
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2021-06-16-SiN-drum-nanofab.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
-Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
+
+> Figs.(a-g) show the fabrication process of silicon nitride drum mechanical resonators.
 We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric
 holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN
 layer (SF6 : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a
@@ -41,15 +50,11 @@ gate structure. For the metal depositions, we first perform Ar ion etching proce
 the sample and then use with electron beam evaporation to deposition the thin films. All
 bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
 
-# Image gallery of devices
-
-SEM images of the fabricated mechanical resoantors are taken in the cleanroom:
+## Device gallery
 
 {% include gallery %}
 
-* Fig.(h): silicon nitride drum membrane released from the Si substrate
-* Fig.(i): thin Al layer deposited on the released SiN drum membrane
-* Fig.(j): thick Al layer deposition as the drum's top gate, forming a capacitive coupling resonator
+> SEM micrographs of the fabricated mechanical resonators were taken in the cleanroom: Fig.(h) Silicon nitride drum membrane released from the Si substrate; Fig.(i) Thin Al layer deposited on the released SiN drum membrane; Fig.(j) Thick Al layer as the drum's top gate, forming a capacitive coupling resonator.
 
 ------
 
