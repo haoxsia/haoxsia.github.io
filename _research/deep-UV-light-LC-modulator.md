@@ -45,7 +45,7 @@ Outline (this page is a short version of our paper [here](https://www.nature.com
 
 ------
 
-[^1]: Li, Y.L., Li, N.N., Wang, D., Chu, F., Lee, S.D., Zheng, Y.W. and Wang, Q.H., 2022. Tunable liquid crystal grating based holographic 3D display system with wide viewing angle and large size. Light: Science & Applications, 11(1), pp.1-10.
+[^1]: Li, Yi-Long, Nan-Nan Li, Di Wang, Fan Chu, Sin-Doo Lee, Yi-Wei Zheng, and Qiong-Hua Wang. "Tunable liquid crystal grating based holographic 3D display system with wide viewing angle and large size." Light: Science & Applications 11, no. 1 (2022): 1-10.
 [^2]: Savage, Neil. "Digital spatial light modulators." Nature Photonics 3, no. 3 (2009): 170-172.
 [^3]: Park, Jongchan, KyeoReh Lee, and YongKeun Park. "Ultrathin wide-angle large-area digital 3D holographic display using a non-periodic photon sieve." Nature communications 10, no. 1 (2019): 1-8.
 [^4]: Padgett, Miles, and Richard Bowman. "Tweezers with a twist." Nature photonics 5, no. 6 (2011): 343-348.
