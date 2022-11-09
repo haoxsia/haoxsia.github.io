@@ -15,7 +15,7 @@ Outline (this page is a short version of our paper [here](https://www.degruyter.
 
 ## Preface
 
-Single-walled carbon nanotubes (SWCNTs) have been expected to be a promising candidate for microelectronics and optoelectronics applications due to their excellent optical, electrical, and mechanical properties [^1]. However, as-synthesized SWCNTSs are mixtures of metallic SWCNTs (m-SWCNTs) and semiconducting SWCNTS (s-SWCNTs), which hinders their practical uses in high-performance electronics and photovoltaic devices. Fortunately, many post-synthetic sorting methods have been well developed to eliminate such barrier, including density gradient ultracentrifugation [^2], DNA molecule wrapping [^3] or conjugated polymer wrapping [^4]. Here, we choose conjugated polymer wrapping to sort s-SWCNTs because of its high selectivity, high yield and easy implementation.
+Single-walled carbon nanotubes (SWCNTs) have been expected to be a promising candidate for microelectronics and optoelectronics applications due to their excellent optical, electrical, and mechanical properties [^1]. However, as-synthesized SWCNTs are mixtures of metallic SWCNTs (m-SWCNTs) and semiconducting SWCNTs (s-SWCNTs), which hinders their practical uses in high-performance electronics and photovoltaic devices. Fortunately, many post-synthetic sorting methods have been well developed to eliminate such barrier, including density gradient ultracentrifugation [^2], DNA molecule wrapping [^3] or conjugated polymer wrapping [^4]. Here, we choose conjugated polymer wrapping to sort s-SWCNTs because of its high selectivity, high yield and easy implementation.
 
 ## UV-vis-NIR absorption spectroscopy of PFT-sorted s-SWCNTs
 
@@ -33,7 +33,7 @@ Single-walled carbon nanotubes (SWCNTs) have been expected to be a promising can
 
 > We also implement photoluminescence excitation (PLE) spectrometry to investigate chirality indices of PFT-sorted-s-SWCNTs. **Fig.A** shows the pristine SWCNTs as a control group, showing all possible chiralities of the SWCNTs. After selectively sorted by PFT, the underlying background and SWCNTs species were greatly reduced in **Fig.B**. But the fluorescence intensity of chirality (9,5)-SWCNTs remained strongest. This is because the PFT selectively extracts the chirality of (9,5), and subsequently the chiralities of (n,m)=(8,6), (7,5) and (10,5).
 
-In brief, the PFT polymer is useful to enrich the chiralities of s-SWCNTs from the mixtures. This provides a facile and simple strategy for microelectronics and photovoltaic applications. For more details see our paper
+In brief, the PFT polymer is useful to enrich the chiralities of s-SWCNTs from the mixtures. This provides a facile and simple strategy for microelectronics and photovoltaic applications. For more details see our paper [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)
 
 
 ------
