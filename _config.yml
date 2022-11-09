@@ -11,7 +11,7 @@ title                    : "Hao Xu"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "personal description"
-url                      : https://haoxsia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haoxu123.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haoxsia/haoxsia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "haoxsia"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : https://haoxu123.com
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
