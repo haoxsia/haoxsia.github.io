@@ -63,7 +63,7 @@ Outline (this page is a short version of our paper [here](https://pubs.acs.org/d
   <img src="https://haoxsia.github.io/images/research/2022-09-09-EIT-probe-Al-1.png?raw=true" alt="Photo" style="width: 600px;"/> 
 </p>
 
-> When probing the Al drum, **Fig.(b)** shows a destructive interference of the mechanical response of the probed Al drum. It is worth to notice that at a red sideband pumping the measurement results in **Fig.(b)** feature splitting within the transparency window due to the $γ_{SiN}<γ_{Al}$. This is because the damping rate of the unprobed SiN drum (related to the term $n_{p}g_{0}^2χ_{1}$) determines the frequency bandwidth of the transparency effect of the Al drum.
+> When probing the Al drum, **Fig.(b)** shows a destructive interference of the mechanical response of the probed Al drum. It is worth to notice that at a red sideband pumping the measurement results in **Fig.(b)** feature splitting within the transparency window due to $γ_{SiN}<γ_{Al}$. This is because the damping rate of the unprobed SiN drum (related to the term $n_{p}g_{0}^2χ_{1}$) determines the frequency bandwidth of the transparency effect of the Al drum.
 
 In brief, the basics of motions of the capacitively coupled SiN and Al drum resonators has been demonstrated, including the strategy of spectrum operation of red/blue sidebands and electromechanically induced transparency/amplification. For more details see our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)
 
