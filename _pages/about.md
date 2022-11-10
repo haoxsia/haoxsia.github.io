@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/2022-10-01-length-scale.jpg?raw=true" alt="Photo" style="width: 3000px;"/> 
+  <img src="https://haoxsia.github.io/images/2022-10-01-length-scale1.jpg?raw=true" alt="Photo" style="width: 3000px;"/> 
 </p>
 
 Hi there! Welcome!
