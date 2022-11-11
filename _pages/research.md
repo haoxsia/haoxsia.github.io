@@ -7,11 +7,11 @@ header:
   og_image: "profile.png"
 ---
 
-My academic research centers on two main scientific areas:
+My research centers on two main scientific areas:
 
 First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS) is a focus during my Ph.D..
 My microfabrication training in cleanroom aims for practicing and understanding lithography, dry etching, metal 
-deposition as well as the sample inspection and metrology.
+deposition, the sample inspection and metrology.
 
 Second, theoretical analysis of cavity optomechanics is another key. My goals are to calculate and analyse the basis of the equations 
 of motion of mechanical resonators in capacitive coupling schemes. With the calculations, mechanical resonators provide a lot of opportunities for 
