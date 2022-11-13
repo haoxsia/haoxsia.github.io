@@ -1,1 +1,29 @@
+---
+title: "[4] High-Q silicon nitride drum resonators strongly coupled to gates"
+collection: publications
+permalink: /publication/2021-04-14-high-Q-SiN
+excerpt: ''
+date: 2021-04-14
+venue: 'arXiv'
+paperurl: ''
+citation: 'Zhou, X., Venkatachalam, S., Zhou, R., Xu, H., et al. (2021). High-Q and high-Coupling gated silicon nitride drum resonators. arXiv preprint arXiv:2104.07142.
+---
+
+See [paper](https://arxiv.org/abs/2104.07142)
+
+## Abstract
+
+Silicon nitride (SiN) mechanical resonators with high quality mechanical properties
+are attractive for fundamental research and applications. However, it is challenging to
+maintain these mechanical properties while achieving strong coupling to an electrical
+circuit for efficient on-chip integration. Here, we present a SiN drum resonator covered
+with an aluminum thin film, enabling large capacitive coupling to a suspended top-gate.
+Implementing the full electrical measurement scheme, we demonstrate a high quality
+factor ∼ 1E4(comparable to that of bare drums at room temperature) and present our
+ability to detect ∼ 10 mechanical modes at low temperature. The drum resonator is
+also coupled to a microwave cavity, so that we can perform optomechanical sideband
+pumping with a fairly good coupling strength G and demonstrate mechanical parametric
+amplification. This SiN drum resonator design provides efficient electrical integration
+and exhibits promising features for exploring mode coupling and signal processing.
+
 
