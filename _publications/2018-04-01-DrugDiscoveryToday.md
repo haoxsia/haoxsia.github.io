@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-04-01
 venue: 'Drug Discovery Today'
 paperurl: ''
-citation: 'Penghui Zhang, Keli An, Xiaoman Duan, Hao Xu, et al. Drug Discovery Today 2018, 23(4): 900-911'
+citation: 'Zhang, P., An, K., Duan, X., Xu, H., et al. (2018). Recent advances in siRNA delivery for cancer therapy using smart nanocarriers. Drug discovery today, 23(4), 900-911.'
 ---
 See [paper](https://www.sciencedirect.com/science/article/abs/pii/S1359644617304294?via%3Dihub)
 
