@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-01-14
 venue: 'RSC Advances'
 paperurl: ''
-citation: 'Hao Xu, Wenhui Yi, Dongfan Li, et al. RSC Advances, 2019, 9, 3558–3569'
+citation: 'Xu, H., Yi, W., Li, D., et al. (2019). Obtaining high mechanical performance silk fibers by feeding purified carbon nanotube/lignosulfonate composite to silkworms. RSC advances, 9(7), 3558-3569.'
 ---
 
 See [paper](https://pubs.rsc.org/en/content/articlelanding/2019/ra/c8ra09934k)
