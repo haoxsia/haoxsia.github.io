@@ -3,7 +3,7 @@ title: "[6] Capacitively coupled distinct mechanical resonators for room tempera
 collection: publications
 permalink: /publication/2022-04-10-phonon-cavity
 excerpt: ''
-date: 2021-04-10
+date: 2022-04-10
 venue: 'arXiv'
 paperurl: ''
 citation: 'Pokharel, A., Xu, H., Venkatachalam, S., et al. (2022). Capacitively coupled distinct mechanical resonators for room temperature phonon-cavity electromechanics. arXiv preprint arXiv:2204.04641.'
