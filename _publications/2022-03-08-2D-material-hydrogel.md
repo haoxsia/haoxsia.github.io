@@ -3,7 +3,7 @@ title: "[5] A 2D material–based transparent hydrogel with engineerable interfe
 collection: publications
 permalink: /publication/2022-03-08-2D-material-hydrogel
 excerpt: ''
-date: 2021-03-08
+date: 2022-03-08
 venue: 'Nature Communications'
 paperurl: ''
 citation: 'Ding, B., Zeng, P., Huang, Z., Dai, L., Lan, T., Xu, H., et al. (2022). A 2D material–based transparent hydrogel with engineerable interference colours. Nature communications, 13(1), 1-8.'
