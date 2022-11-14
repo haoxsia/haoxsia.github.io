@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xu"
+title                    : "Hao Xu (徐 浩)"
 title_separator          : "-"
-name                     : &name "Hao Xu"
+name                     : &name "Hao Xu (徐 浩)"
 description              : &description "personal description"
 url                      : https://haoxsia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Xu (徐浩)"
+  name             : "Hao Xu (徐 浩)"
   avatar           : "hao-xu-image.png"
   bio              : "Ph.D. student/researcher in IEMN-CNRS"
   location         : "Lille, France"
