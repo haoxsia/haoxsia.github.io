@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Hao Xu (徐浩)
+  username               : Hao Xu
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Xu"
+  name             : "Hao Xu (徐浩)"
   avatar           : "hao-xu-image.png"
   bio              : "Ph.D. student/researcher in IEMN-CNRS"
   location         : "Lille, France"
