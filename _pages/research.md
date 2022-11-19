@@ -13,7 +13,7 @@ First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEM
 My microfabrication training in cleanroom aims for practicing and understanding lithography, dry etching, metal 
 deposition, the sample inspection and metrology.
 
-Second, theoretical analysis of cavity optomechanics is another key. My goals are to calculate and analyse the basis of the equations 
+Second, theoretical analysis of nanoelectromechanics is another key. My goals are to calculate and analyse the basis of the equations 
 of motion of mechanical resonators in capacitive coupling schemes. With the calculations, mechanical resonators provide a lot of opportunities for 
 quantum engineering, different resonators entangling, and ultrasensitive detection of tiny forces or motions.
 
