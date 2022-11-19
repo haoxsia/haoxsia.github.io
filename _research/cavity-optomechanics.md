@@ -1,5 +1,5 @@
 ---
-title: "Cavity optomechanics"
+title: "Nanoelectromechanics"
 layout: single-portfolio
 excerpt: "<img src='/images/research/2022-10-31-theory.png' alt=''>"
 collection: research
