@@ -11,7 +11,7 @@ My research centers on two main scientific areas:
 
 First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS) is a focus during my Ph.D..
 My microfabrication training in cleanroom aims for practicing and understanding lithography, dry etching, metal 
-deposition, the sample inspection and metrology.
+deposition, the sample inspection and metrology. Through the training, it is possible to manufacture the device we designed for use.
 
 Second, theoretical analysis of nanoelectromechanics is another key. My goals are to calculate and analyse the basis of the equations 
 of motion of mechanical resonators in capacitive coupling schemes. With the calculations, mechanical resonators provide a lot of opportunities for 
@@ -19,7 +19,7 @@ quantum engineering, different resonators entangling, and ultrasensitive detecti
 
 Prior to doing the above, my major target was to tune the propagation of polarized lights through magnetically or electrically stimulating the alignment of two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
-In other respects, the use of carbon nanotubes (CNTs) and graphene or more nanomaterials was one of my early explorations.
+In other aspects, the use of carbon nanotubes (CNTs) and graphene or more nanomaterials was one of my early explorations.
 
 
 <nbsp>
