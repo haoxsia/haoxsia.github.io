@@ -11,7 +11,7 @@ My research centers on two main scientific areas:
 
 First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS) is a focus during my Ph.D..
 My microfabrication training in cleanroom aims for practicing and understanding lithography, dry etching, metal 
-deposition, the sample inspection and metrology. Through the training, it is possible to manufacture the device we designed for use.
+deposition, the sample inspection and metrology.
 
 Second, theoretical analysis of nanoelectromechanics is another key. My goals are to calculate and analyse the basis of the equations 
 of motion of mechanical resonators in capacitive coupling schemes. With the calculations, mechanical resonators provide a lot of opportunities for 
