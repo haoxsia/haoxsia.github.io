@@ -19,7 +19,7 @@ quantum engineering, different resonators entangling, and ultrasensitive detecti
 
 Prior to doing the above, my major target was to tune the propagation of polarized lights through magnetically or electrically stimulating the alignment of two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
-In other aspects, the use of carbon nanotubes (CNTs) and graphene or more nanomaterials was one of my early explorations.
+In other early explorations, carbon nanotubes (CNTs) or more nanomaterials (e.g., with electrical, optical and mechanical natures) were used as enhancement agents.
 
 
 <nbsp>
