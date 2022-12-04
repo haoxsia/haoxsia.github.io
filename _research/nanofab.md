@@ -25,7 +25,7 @@ Outline (this page shortly introduces our development of the device, see our pap
 
 1. Preface
 2. Device fabrication
-3. Device gallery
+3. Device images gallery
 
 ## Preface
 
