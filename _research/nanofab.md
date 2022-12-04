@@ -40,7 +40,7 @@ Outline (this page shortly introduces our development of the device, see our pap
 
 > **Figs.(a-g)** show the fabrication process of silicon nitride drum mechanical resonators. We define the diameter of the drum by using electron beam (EB) resist CSAR62 to pattern circularly symmetric holes. The drum is released from the Si substrate by reactive ion etching (RIE) of the SiN layer ( $SF_{6}$ : Ar = 10 sccm : 10 sccm, for 6.5 min) through these opened holes, followed by a selective $XeF_{2}$ silicon etching. These holes occupy about 40 % ~ 45 % of the SiN drum area. Its suspended top-gate is fabricated by using EB resist PMMA as a top-gate support through soft-bake at the temperature of 140 $^{\circ}C$ and reflowed at 180 $^{\circ}C$. Then, we deposit the second layer EB resist MMA (methyl methacrylate) on the top of the support resist and pattern the gate structure. For the metal depositions, we first perform Ar ion etching process to clean the sample and then use with electron beam evaporation to deposition the thin films. All bonding pads on the chip are designed to be 50 Ohm impedance for microwave signals.
 
-## Device gallery
+## Device images gallery
 
 {% include gallery %}
 
