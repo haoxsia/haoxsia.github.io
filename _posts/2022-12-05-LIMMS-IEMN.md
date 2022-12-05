@@ -12,7 +12,7 @@ tags:
 <p align="center">
   <img src="https://haoxsia.github.io/images/posts/Map-LIMMS_2018-min.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
-This meeting discuss recent advances in nano/micro-electromechanical systems, probing technologies (including AFM or KFM), biomedical sensors and flexible electronics and more.
+This meeting wil discuss recent advances in nano/micro-electromechanical systems (NEMS/MEMS), probing technologies (including AFM or KFM), biomedical sensors and flexible electronics and more.
 
 # NEMS/MEMS
 
