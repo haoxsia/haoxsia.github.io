@@ -10,7 +10,7 @@ header:
 My research centers on two main scientific areas:
 
 First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS) is a focus during my Ph.D..
-My microfabrication training in cleanroom aims for practicing and understanding lithography, dry etching, metal 
+My microfabrication training in supercleanroom aims for practicing and understanding lithography, dry etching, metal 
 deposition, the sample inspection and metrology.
 
 Second, theoretical modelling of nanoelectromechanics is another key. My goals are to calculate and analyse the basis of the equations 
