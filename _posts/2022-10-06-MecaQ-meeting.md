@@ -17,11 +17,11 @@ tags:
 
 1 h invited tutorials will be given by internationally renowned speakers who will introduce their research topic and present their latest advances. see [agenda](https://mecaqcolloq2022.sciencesconf.org/program)
 
-* Dr Ludovic Bellon, ENS de Lyon
-* Dr Jean-Charles Beugnot, FEMTO-ST Institute
-* Pr Johannes Fink, Institute of Science and Technology Austria
-* Pr Christophe Galland, EPFL
-* Pr Anja Metelmann, Karlsruhe Institute of Technology
+* Dr. Ludovic Bellon, ENS de Lyon
+* Dr. Jean-Charles Beugnot, FEMTO-ST Institute
+* Pr. Johannes Fink, Institute of Science and Technology Austria
+* Pr. Christophe Galland, EPFL
+* Pr. Anja Metelmann, Karlsruhe Institute of Technology
 
 
 # MecaQ webinar series
