@@ -43,4 +43,4 @@ This meeting discuss recent advances in nano/micro-electromechanical systems, pr
 
 ------
 
-See [agenda](/files/posts/2022-12-05-Agenda-Workshop-LIMMS-IEMN.pdf)
+See [agenda](/files/2022-12-05-Agenda-Workshop-LIMMS-IEMN.pdf)
