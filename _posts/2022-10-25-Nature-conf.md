@@ -27,8 +27,6 @@ This meeting will discuss exciting advances in the design, implementation, and c
 * Functional Biohybrid Neuromorphic Interfaces
 * Francesca Santoro (RWTH Aachen and Forschungszentrum Juelich, Germany)
 
-See [video](https://events.streamgo.live/technologies-for-neuroenginnering-2022/session-i-bioelectronic-interfaces-1-od)
-
 # Brain-machine Interfaces (Session III: BMI - 1)
 
 * Session Chair
@@ -42,8 +40,6 @@ See [video](https://events.streamgo.live/technologies-for-neuroenginnering-2022/
 
 * Cognitive Neural Prosthetics
 * Richard Andersen (California Institute of Technology, USA)
-
-See [video](https://events.streamgo.live/technologies-for-neuroenginnering-2022/session-iii-bmi-1-od)
 
 ------
 
