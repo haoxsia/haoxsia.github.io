@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xu"
+title                    : "Hao Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "haoxsia"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
