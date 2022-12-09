@@ -14,10 +14,4 @@ redirect_from:
 
 Welcome! I am doing research in the Institute of Electronics, Microelectronics and Nanotechnology (IEMN) affiliated to CNRS in France. Prior to coming here, I acquired my Master Degree in electronics from Xi'an Jiaotong  University in China.
 
-See beautiful universe [here](https://www.youtube.com/watch?v=24cV8GYe-iw&t=98s)
-
-
-
-
-
 
