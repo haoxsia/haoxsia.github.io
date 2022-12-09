@@ -11,11 +11,11 @@ tags:
 <p align="center">
   <img src="https://haoxsia.github.io/images/posts/2022-10-30-mecaQ-7th.png?raw=true" alt="Photo" style="width: 475px;"/> 
 </p>
-7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications. See [homepage](http://www.lkb.upmc.fr/gdr-meca-q/)
+7th Annual meeting GDR MecaQ gathers the French community of scientists sharing an interest for quantum optomechanics, nanomechanics and associated phenomena and applications.
 
 # Tutorial talks
 
-1 h invited tutorials will be given by internationally renowned speakers who will introduce their research topic and present their latest advances. see [agenda](https://mecaqcolloq2022.sciencesconf.org/program)
+1 h invited tutorials will be given by internationally renowned speakers who will introduce their research topic and present their latest advances. See [agenda](https://mecaqcolloq2022.sciencesconf.org/program)
 
 * Dr. Ludovic Bellon, ENS de Lyon
 * Dr. Jean-Charles Beugnot, FEMTO-ST Institute
