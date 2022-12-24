@@ -1,5 +1,5 @@
 ---
-title: "[5] A 2D material–based transparent hydrogel with engineerable interference colours"
+title: "A 2D material–based transparent hydrogel with engineerable interference colours"
 collection: publications
 permalink: /publication/2022-03-08-2D-material-hydrogel
 excerpt: ''
