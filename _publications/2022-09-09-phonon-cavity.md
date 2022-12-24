@@ -1,5 +1,5 @@
 ---
-title: "[6'] Coupling Capacitively Distinct Mechanical Resonators for Room-Temperature Phonon-Cavity Electromechanics"
+title: "Coupling Capacitively Distinct Mechanical Resonators for Room-Temperature Phonon-Cavity Electromechanics"
 collection: publications
 permalink: /publication/2022-09-09-phonon-cavity
 excerpt: ''
