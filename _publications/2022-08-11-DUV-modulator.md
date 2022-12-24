@@ -1,5 +1,5 @@
 ---
-title: "[7] Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional hexagonal boron nitride"
+title: "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional hexagonal boron nitride"
 collection: publications
 permalink: /publication/2022-08-11-DUV-modulator
 excerpt: ''
