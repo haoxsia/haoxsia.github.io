@@ -65,7 +65,7 @@ When still probing the phonon cavity (SiN drum), we measure electromechanical re
 
 When probing the Al drum, **Fig.(b)** shows a destructive interference of mechanical response of the probed Al drum. At this red sideband, it is worth to notice that the measurement results in **Fig.(b)** feature splitting within the transparency window due to $γ_{SiN}<γ_{Al}$. This is because mechanical damping rate of the unprobed SiN drum (related to the term $n_{p}g_{0}^2χ_{1}$) determines the transparency frequency bandwidth of the Al drum.
 
-In brief, capacitively coupled SiN and Al drum resonators has been demonstrated, including strategies of spectrum operation at red/blue sidebands and electromechanically induced transparency/amplification applications.
+In brief, capacitively coupled SiN and Al drum resonators have been demonstrated, including strategies of spectrum operation at red/blue sidebands and electromechanically induced transparency/amplification applications.
 
 
 ------
