@@ -14,7 +14,7 @@ My microfabrication training in supercleanroom aims for using and mastering lith
 deposition, the sample inspection and metrology.
 
 Second, theoretical modelling of nanoelectromechanics is another key. My goals are to analyse and calculate 
-the motion equations of the capacitively coupled mechanical resonators. With the calculations, mechanical
+the motion equations of capacitively coupled mechanical resonators. With the calculations, mechanical
 resonators provide rich opportunities for ultrasensitive detection of tiny forces or Brownian motions.
 
 Prior to doing the above, my aim was to control the propagation properties of polarized lights through magnetically or electrically stimulating the alignment of two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
