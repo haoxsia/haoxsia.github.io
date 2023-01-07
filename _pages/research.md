@@ -15,7 +15,7 @@ deposition, the sample inspection and metrology.
 
 Second, theoretical modelling of nanoelectromechanics is another key. My goals are to analyse and calculate 
 the motion equations of capacitively coupled mechanical resonators. With the calculations, mechanical
-resonators provide rich opportunities for ultrasensitive detection of tiny forces or Brownian motions.
+resonators provide rich opportunities for ultrasensitive detection of tiny forces and Brownian motions.
 
 Previously, my aim was to use magnetic-/electric-field to study the interaction between light and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
