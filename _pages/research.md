@@ -19,7 +19,7 @@ resonators provide rich opportunities for ultrasensitive detection of tiny force
 
 Previously, my aim was to use magnetic-/electric-field to study the interaction between light and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
-In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with electrical, optical and mechanical natures) were used as enhancement agents.
+In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were used as enhancement agents.
 
 
 <nbsp>
