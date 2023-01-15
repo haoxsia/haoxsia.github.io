@@ -15,7 +15,7 @@ My microfabrication training in supercleanroom lies in using and mastering litho
 Second, theoretical modelling of nanoelectromechanics is another key. My goals are to analyse and calculate 
 the motion equations of a mechanical system consisting of capacitively coupled two mechanical resonators. With the calculations, the mechanical system provides rich opportunities for ultrasensitive detection (about 10 $pm/ \sqrt{Hz}$) for tiny forces and Brownian motions.
 
-Previously, my aim was to use magnetic-/electric-field to study the interaction between light and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
+Previously, my aim was to use magnetic-/electric-field to investigate the interaction between light and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
 In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were used as enhancement agents.
 
