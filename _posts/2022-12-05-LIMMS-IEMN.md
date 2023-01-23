@@ -16,30 +16,30 @@ This meeting will discuss recent advances in nano/micro-electromechanical system
 
 # NEMS/MEMS
 
-* MEMS VEH
-* Pr. Hiroshi Toshiyoshi (UTokyo, Japan)
+* MEMS VEH\
+Pr. Hiroshi Toshiyoshi (UTokyo, Japan)
 
-* Agile CMOS-MEMS research opportunity in Takeda Supercleanroom Open Platform
-* Pr. Yoshio Mita (UTokyo, Japan)
+* Agile CMOS-MEMS research opportunity in Takeda Supercleanroom Open Platform\
+Pr. Yoshio Mita (UTokyo, Japan)
 
 # AFM, KFM, Probing technology
 
-* Photo-assisted Scanning Probe Microscopy on Solar Cells
-* Pr. Takuji Takahashi (UTokyo, Japan)
+* Photo-assisted Scanning Probe Microscopy on Solar Cells\
+Pr. Takuji Takahashi (UTokyo, Japan)
 
-* KPFM & probes
-* Dr. Thierry Melin (IEMN-CNRS, France)
+* KPFM & probes\
+Dr. Thierry Melin (IEMN-CNRS, France)
 
 # Biomedical sensing devices
 
-* Biomedical Microsystems for Single molecule and cell analysis
-* Pr. Soo Hyeon Kim (UTokyo, Japan)
+* Biomedical Microsystems for Single molecule and cell analysis\
+Pr. Soo Hyeon Kim (UTokyo, Japan)
 
-* Multi-modal Bio-sensing Platforms based on Thin-Film-Transistor Technology
-* Pr. Agnès Tixier-Mita (UTokyo, Japan)
+* Multi-modal Bio-sensing Platforms based on Thin-Film-Transistor Technology\
+Pr. Agnès Tixier-Mita (UTokyo, Japan)
 
-* Biomolecular Needling Systems for medicals (SMMILE-new project)
-* Pr. Beomjoon Kim (UTokyo, Japan)
+* Biomolecular Needling Systems for medicals (SMMILE-new project)\
+Pr. Beomjoon Kim (UTokyo, Japan)
 
 ------
 
