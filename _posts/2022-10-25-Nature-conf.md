@@ -15,31 +15,31 @@ This meeting will discuss exciting advances in the design, implementation, and c
 
 # Bioelectronic Interfaces (Session I)
 
-* Session Chair
-* Suk-Won Hwang (Korea University, South Korea)
+* Session Chair\
+Suk-Won Hwang (Korea University, South Korea)
 
-* Paths toward Bio-Integrated Neuromorphic Electronic Skins
-* Benjamin Tee, (National University of Singapore, Singapore)
+* Paths toward Bio-Integrated Neuromorphic Electronic Skins\
+Benjamin Tee, (National University of Singapore, Singapore)
 
-* Polymer Bioelectronics: A Multidisciplinary Approach to Communicating with The Body
-* Rylie Green (Imperial College London, UK)
+* Polymer Bioelectronics: A Multidisciplinary Approach to Communicating with The Body\
+Rylie Green (Imperial College London, UK)
 
-* Functional Biohybrid Neuromorphic Interfaces
-* Francesca Santoro (RWTH Aachen and Forschungszentrum Juelich, Germany)
+* Functional Biohybrid Neuromorphic Interfaces\
+Francesca Santoro (RWTH Aachen and Forschungszentrum Juelich, Germany)
 
 # Brain-machine Interfaces (Session III: BMI - 1)
 
-* Session Chair
-* Jennifer Collinger (University of Pittsburgh, USA)
+* Session Chair\
+Jennifer Collinger (University of Pittsburgh, USA)
 
-* Seeing the Forest and the Tree: Decomposing Neural Population Activity into Collective and Individual Dynamics
-* Eva Dyer (Emory University, USA)
+* Seeing the Forest and the Tree: Decomposing Neural Population Activity into Collective and Individual Dynamics\
+Eva Dyer (Emory University, USA)
 
-* Intelligent, Wireless Neural Interfaces for BMI and Neuromodulation
-* Rikki Muller (University of California, Berkeley, USA)
+* Intelligent, Wireless Neural Interfaces for BMI and Neuromodulation\
+Rikki Muller (University of California, Berkeley, USA)
 
-* Cognitive Neural Prosthetics
-* Richard Andersen (California Institute of Technology, USA)
+* Cognitive Neural Prosthetics\
+Richard Andersen (California Institute of Technology, USA)
 
 ------
 
