@@ -27,6 +27,6 @@ Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andre
 
 # Conferences
 
-* [Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes](https://mecaqcolloq2022.sciencesconf.org/data/pages/Booklet_1.pdf)\
+* [Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes](https://mecaqcolloq2022.sciencesconf.org/program)\
 **Hao Xu**, Didier Theron, Sophie Eliet, Xin Zhou. 7th GDR Annual Meeting, Bordeaux France (2022)
 
