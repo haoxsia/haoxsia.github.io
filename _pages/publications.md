@@ -7,22 +7,16 @@ author_profile: true
 
 Table of contents| Selected publications 
 --- | --- 
-*Still* | `renders` 
-1 | 2 
-1 | 2 
+*Still* | [Capacitively coupled distinct mechanical resonators for room temperature phononcavity electromechanics](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848)<br/> Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Srisaran Venkatachalam, Eddy Collin, Xin Zhou. *Nano Letters* 22 (18), 7351-7357 (2022)
+1 | [Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional hexagonal boron nitride](https://www.nature.com/articles/s41565-022-01186-1)<br/> **Hao Xu**, Baofu Ding, Youan Xu, Ziyang Huang, Dahai Wei, Shaohua Chen, Tianshu Lan, Yikun Pan, Hui-Ming Cheng and Bilu Liu. *Nature Nanotechnology* 17, 1091–1096 (2022)
+1 | [High-q silicon nitride drum resonators strongly coupled to gates](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01477) <br/> Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andrew Fefferman, Mohammed Zaknoune, Eddy Collin. *Nano Letters* 21(13), 5738-5744 (2021)
 
-Previously, my aim was to use magnetic-/electric-field to investigate the light-matter interaction between polarized lights and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
+* [Capacitively coupled distinct mechanical resonators for room temperature phononcavity electromechanics](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848)\
+Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Srisaran Venkatachalam, Eddy Collin, and Xin Zhou. *Nano Letters* 22 (18), 7351-7357 (2022)
 
-In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were used as enhancement agents.
+* [Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
+hexagonal boron nitride](https://www.nature.com/articles/s41565-022-01186-1)<br/> **Hao Xu**, Baofu Ding, Youan Xu, Ziyang Huang, Dahai Wei, Shaohua Chen, Tianshu Lan, Yikun Pan, Hui-Ming Cheng and Bilu Liu. *Nature Nanotechnology* 17, 1091–1096 (2022)
 
+* In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were used as enhancement agents.
 
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
 
