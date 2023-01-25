@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style scoped>
   table {
-  font-size: 19px;
+  font-size: 18px;
   }
 </style>
 Table of contents | Selected publication journals 
