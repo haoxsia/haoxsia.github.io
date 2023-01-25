@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<style scoped>
+  table {
+  font-size: 13px;
+  }
+</style>
 Table of contents | Selected publication journals 
 --- | --- 
   <img src="https://haoxsia.github.io/images/publication/nl_2022_v1.png?raw=true" alt="Photo" style="width: 500px;"/> | [Capacitively coupled distinct mechanical resonators for room temperature phononcavity electromechanics](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848)<br/> Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Eddy Collin, Xin Zhou. *Nano Letters* 22 (18), 7351-7357 (2022)
