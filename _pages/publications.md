@@ -19,7 +19,7 @@ Table of contents | Selected publication journals
 Baofu Ding, Pengyuan Zeng, Ziyang Huang, Lixin Dai, Tianshu Lan, **Hao Xu**, Yikun Pan, Yuting Luo, Qiangmin Yu, Hui-Ming Cheng and Bilu Liu. *Nat. Commun.* 13, 1212 (2022)
 
 * [Supramolecular interactions of poly [(9, 9-dioctylfluorenyl-2, 7-diyl)-co-thiophene] with
-single-walled carbon nanotubes](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)<br/> Ping Zhang , Wenhui Yi, **Hao Xu**, Chao Gao , Jin Hou , Weiqiu Jin, Yue Lei, Xun Hou. *Nanotechnology Reviews* 7(6), 487-495 (2018)
+single-walled carbon nanotubes](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)<br/> Ping Zhang, Wenhui Yi, **Hao Xu**, Chao Gao, Jin Hou, Weiqiu Jin, Yue Lei, Xun Hou. *Nanotechnology Reviews* 7(6), 487-495 (2018)
 
 # Preprints
 
