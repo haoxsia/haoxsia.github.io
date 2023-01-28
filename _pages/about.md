@@ -13,6 +13,6 @@ redirect_from:
 </p>
 
 * Welcome! I am working on nanoelectromechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining CNRS in 2020, I acquired my Master Degree in electronics from Xi'an Jiaotong  University in China.
-* Keywords - NEMS/MEMS, nano-electromechanics, cavity classical/quantum optomechanics
+* Keywords - NEMS/MEMS, nano-electronics, nano-mechanics, cavity classical/quantum optomechanics
 
 
