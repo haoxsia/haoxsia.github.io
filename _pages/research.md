@@ -17,7 +17,7 @@ the motion equations of a mechanical system consisting of capacitively coupled d
 
 Previously, my aim was to use magnetic-/electric-field to investigate the light-matter interaction between polarized lights and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
-In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were used as enhancement agents.
+In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were investigated for photovoltaic applications and more.
 
 
 <nbsp>
