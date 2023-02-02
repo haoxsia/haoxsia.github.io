@@ -9,7 +9,7 @@ header:
 ---
 
 Outline (this page is a short version of our paper [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)):
-1. Preface
+1. Short introduction
 2. UV-vis-NIR absorption spectroscopy of PFT-sorted s-SWCNTs
 3. Photoluminescence excitation (PLE) spectroscopy of PFT-sorted s-SWCNTs
 
