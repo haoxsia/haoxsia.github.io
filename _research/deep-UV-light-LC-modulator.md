@@ -9,7 +9,7 @@ header:
 ---
 
 Outline (this page is a short version of our paper [here](https://www.nature.com/articles/s41565-022-01186-1)):
-1. Preface
+1. Short introduction
 2. Magneto-birefringence effect of 2D hBN suspension
 3. Magnetic-field-induced alignment and magneto-birefringence of 2D hBN inorganic LCs
 4. Performance of the 2D hBN inorganic LC-based DUV modulator
