@@ -27,7 +27,7 @@ Outline (this page shortly introduces our development of the device, see our pap
 2. Device fabrication
 3. Device images gallery
 
-## Preface
+## Short introduction
 
 With the development of microelectronics and semiconductor industry, nano-/micro-manufacturing technologies have attracted increasing attention in nano/microscale devices, such as breath/blood pressure sensors in health monitoring [^1], microfluidics [^2] in biological analysis, accelerators [^3] and gyroscopes [^4] in mobile phones, and RF components [^5] in modern industry. With these aims, nano-/micro-electromechanical systems (NEMS/MEMS) are promising ideals to be applied in microelectronic integrations, thanks to their nano/microscales and physical properties control. By 2022, there will still be a huge market for MEMS products of about $20B in the world. Today, silicon nitride (SiN) mechanical resonators with high mechanical properties (e.g., tensile stress) are promising devices for fundamental research and applications. To achieve high quality factor while enabling electromechanical strong coupling in electrical integrated circuits, here we present developing silicon nitride mechanical resonator.
 
