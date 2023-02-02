@@ -14,7 +14,7 @@ Outline (this page is a short version of our paper [here](https://pubs.acs.org/d
 3. Strategy of spectrum operation at red/blue sideband pumping
 4. Electromechanically induced transparency and amplification
 
-## Preface
+## Short introduction
 
 <p align="center">
   <img src="https://haoxsia.github.io/images/research/2022-09-09-phonon-cavity-TOC.png?raw=true" alt="Photo" style="width: 600px;"/> 
