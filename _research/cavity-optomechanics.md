@@ -9,7 +9,7 @@ header:
 ---
 
 Outline (this page is a short version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
-1. Preface
+1. Short introduction
 2. Schematic of capacitively coupled two distinct mechanical resonators
 3. Strategy of spectrum operation at red/blue sideband pumping
 4. Electromechanically induced transparency and amplification
