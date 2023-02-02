@@ -13,7 +13,7 @@ Outline (this page is a short version of our paper [here](https://www.degruyter.
 2. UV-vis-NIR absorption spectroscopy of PFT-sorted s-SWCNTs
 3. Photoluminescence excitation (PLE) spectroscopy of PFT-sorted s-SWCNTs
 
-## Preface
+## Short introduction
 
 Single-walled carbon nanotubes (SWCNTs) have been a promising candidate for microelectronics and optoelectronics applications due to their excellent optical, electrical, and mechanical properties [^1]. However, as-synthesized SWCNTs are mixtures of metallic SWCNTs (m-SWCNTs) and semiconducting SWCNTs (s-SWCNTs), which hinders their practical uses in high-performance electronics and photovoltaic devices. Fortunately, many post-synthetic sorting methods have been well developed to eliminate such barrier, including density gradient ultracentrifugation [^2], DNA molecule wrapping [^3] and conjugated polymer wrapping [^4]. Here, we choose conjugated polymer wrapping to sort s-SWCNTs because of its high selectivity, high yield and easy implementation.
 
