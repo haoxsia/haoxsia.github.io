@@ -14,7 +14,7 @@ Outline (this page is a short version of our paper [here](https://www.nature.com
 3. Magnetic-field-induced alignment and magneto-birefringence of 2D hBN inorganic LCs
 4. Performance of the 2D hBN inorganic LC-based DUV modulator
 
-## Preface
+## Short introduction
 
 Birefringence is a fundamental optical property that can allow some external stimulus, like magnetic or electric field, to induce phase retardation of polarized light. Today, tuning the birefringence of liquid crystals (LCs) is a core technology for light manipulation in various applications, such as LC displays [^1], light modulators [^2], holographic imagers [^3], and optical tweezers [^4]. Most of these applications can only be used in the visible and infrared wavelengths, but rather than in as short as deep ultraviolet (DUV) wavelength. This is because the conventional LCs with organic compositions own the strong absorption and instability in the DUV spectral region. Therefore, the development of LCs without organic compositions is of great potential in manipulating DUV light.
 
