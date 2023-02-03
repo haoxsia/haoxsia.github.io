@@ -13,7 +13,7 @@ First, advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEM
 My microfabrication training in supercleanroom lies in using and mastering lithography, dry etching, metal evaporation, sample inspection and metrology.
 
 Second, theoretical modelling of nanoelectromechanics is another key. My goals are to analyse and calculate 
-the motion equations of a mechanical system consisting of capacitively coupled distinct mechanical resonators. With the calculations and simulations, the mechanical system provides rich opportunities for ultrasensitive detection (about 10 $pm/ \sqrt{Hz}$) for very tiny Brownian motions.
+the motion equations of a mechanical system consisting of capacitively coupled distinct mechanical resonators. With the calculations and simulations, the mechanical system provides rich opportunities for ultrasensitive detection (about 10 $pm/ \sqrt{Hz}$) for very tiny Brownian motion.
 
 Previously, my aim was to use magnetic-/electric-field to investigate the light-matter interaction between polarized lights and two dimensional liquid crystals (LCs), such as hexagonal boron nitride.
 
