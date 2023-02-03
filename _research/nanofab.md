@@ -44,7 +44,7 @@ With the development of microelectronics and semiconductor industry, nano-/micro
 
 {% include gallery %}
 
-SEM micrographs of the fabricated mechanical resonators were taken in the cleanroom: **Fig.(h)** Silicon nitride drum membrane released from the Si substrate; **Fig.(i)** Thin Al layer deposited on the released SiN drum membrane; **Fig.(j)** Thick Al layer as the drum's top gate, forming a capacitive coupling resonator.
+SEM micrographs of the fabricated mechanical resonators were taken in the cleanroom: **Fig.(h)** Silicon nitride drum membrane released from Si substrate; **Fig.(i)** Thin Al layer deposited on the released SiN drum membrane; **Fig.(j)** Thick Al layer as drum's top gate, forming a capacitive coupled resonator.
 
 ------
 
