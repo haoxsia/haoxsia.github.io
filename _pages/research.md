@@ -10,7 +10,7 @@ header:
 My research centers on two main scientific areas:
 
 First, <ins>advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)</ins> is a focus during my Ph.D..
-My microfabrication training in supercleanroom lies in using and mastering lithography, dry etching, metal evaporation, sample inspection and metrology.
+My microfabrication training in supercleanroom lies in using lithography, dry etching and metal evaporation processes to fabricate nano-/micro-devices, followed by sample inspection and metrology.
 
 Second, <ins>theory modeling and simulation of NEMS/MEMS</ins> are the other keys. My goals are to analyse and calculate 
 the motion equations of a mechanical system consisting of capacitively coupled distinct mechanical resonators. With the calculations and simulations, the mechanical system provides rich application opportunities for ultrasensitive detection (about 10 $pm/ \sqrt{Hz}$) for very tiny Brownian motion.
