@@ -9,15 +9,14 @@ header:
 
 My research centers on two main scientific areas:
 
-First, <ins>advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)</ins> is fundamental during my Ph.D..
-My microfabrication training in supercleanroom focuses on using EB lithography, dry etching and metal evaporation processes to fabricate nano-/micro-resonant capacitor devices, followed by sample inspection and metrology.
+First, <ins>advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)</ins> is fundamental during his Ph.D.. His microfabrication training in supercleanroom focuses on using EB lithography, dry etching and metal evaporation processes to fabricate nano-/micro-resonant capacitor devices, followed by sample inspection and metrology.
 
-Second, <ins>theory modeling and simulation of NEMS/MEMS devices</ins> are key. My goals are to analyse and calculate 
-the motion equations of a mechanical system consisting of capacitively coupled distinct mechanical resonators. With the calculations and simulations, the mechanical system offers promising avenues to ultrasensitive detection for mass, force, and (Brownian) motion. It can be potentially extended to quantum engineering domain for ground state cooling and quantum states entanglement.
+Second, <ins>theory modeling and simulation of NEMS/MEMS devices</ins> are key. His goals are to analyse probe/pump spectrum operation and calculate 
+the motion equations of a mechanical system consisting of capacitively coupled distinct mechanical resonators. With the calculations and simulations, the mechanical system offers promising avenues to ultrasensitive detection for mass, force, and (Brownian) motion. It could enable ground state cooling and quantum entanglement in the future.
 
-Previously, I focused on liquid crystals (LCs) based micro-/nano-photonic devices. My aim was to use magnetic-/electric-field to investigate the light-matter interaction between polarized lights and two dimensional LCs, such as hexagonal boron nitride, thereby studying the underlying physical phenomena and their applications.
+Previously (2 years ago), he focused on liquid crystals (LCs) based micro-/nano-photonic devices. His aim was to use magnetic-/electric-field to investigate the light-matter interaction between polarized lights and two dimensional LCs, such as hexagonal boron nitride, thereby studying the underlying physical phenomena and applications.
 
-In other early explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were investigated for optoelectronics applications and more.
+In other very early (5 years ago) explorations, carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) were investigated for optoelectronics applications and more.
 
 
 <nbsp>
