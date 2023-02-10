@@ -7,7 +7,7 @@ header:
   og_image: "profile.png"
 ---
 
-My research centers on two main scientific areas:
+My research now centers on two main scientific areas:
 
 First, <ins>advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)</ins> is fundamental during his Ph.D.. His microfabrication training in supercleanroom focuses on using EB lithography, dry etching and metal evaporation processes to fabricate nano-/micro-resonant capacitor devices, followed by sample inspection and metrology.
 
