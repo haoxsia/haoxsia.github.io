@@ -12,7 +12,7 @@ redirect_from:
   <img src="https://haoxsia.github.io/images/2022-10-01-length-scale08.jpg?raw=true" alt="Photo" style="width: 3000px;"/> 
 </p>
 
-* Welcome! he works on nano-electronics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining CNRS in 2020, he acquired his Master Degree in electronics from Xi'an Jiaotong  University in China.
+* Welcome! he works on microwave optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining CNRS in 2020, he acquired his Master Degree in electronics from Xi'an Jiaotong  University in China.
 * Keywords - NEMS/MEMS, nano-electronics, cavity classical/quantum optomechanics
 
 
