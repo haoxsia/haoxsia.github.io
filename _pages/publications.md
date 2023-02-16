@@ -34,6 +34,6 @@ Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andre
 * [Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes](https://mecaqcolloq2022.sciencesconf.org/program)\
 **Hao Xu**, Didier Theron, Sophie Eliet, Xin Zhou. 7th GDR Annual Meeting, Bordeaux France (2022)
 
-* [Investigation of mechanical modes coupling in silicon nitride drum resonators at room temperature](https://hal.science/hal-03381547/file/abstract_verFinal.pdf)\
-Alok Pokharel, Srisaran Venkatachalam, **Hao Xu**, Xin Zhou. 17èmes journées de la matière condensée, JMC17, Rennes France (2021)
+* [Investigation of mechanical modes coupling in silicon nitride drum resonators at room temperature](https://jmc17.sciencesconf.org/357745/document)\
+Alok Pokharel, Srisaran Venkatachalam, **Hao Xu**, Xin Zhou. 17èmes journées de la matière condensée, Rennes France (2021)
 
