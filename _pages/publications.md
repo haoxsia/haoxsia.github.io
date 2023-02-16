@@ -35,5 +35,5 @@ Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andre
 **Hao Xu**, Didier Theron, Sophie Eliet, Xin Zhou. 7th GDR Annual Meeting, Bordeaux France (2022)
 
 * [Investigation of mechanical modes coupling in silicon nitride drum resonators at room temperature](https://jmc17.sciencesconf.org/357745/document)\
-Alok Pokharel, Srisaran Venkatachalam, **Hao Xu**, Xin Zhou. 17èmes journées de la matière condensée, Rennes France (2021)
+Alok Pokharel, Srisaran Venkatachalam, **Hao Xu**, Xin Zhou. 17èmes journées de la matière condensée, JMC17, Rennes France (2021)
 
