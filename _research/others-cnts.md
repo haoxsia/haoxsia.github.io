@@ -8,7 +8,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-cnts.png"
 ---
 
-Outline (this page is a short version of our paper [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)):
+Outline (this page is a short version of our article [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)):
 1. Short introduction
 2. UV-vis-NIR absorption spectroscopy of PFT-sorted s-SWCNTs
 3. Photoluminescence excitation (PLE) spectroscopy of PFT-sorted s-SWCNTs
@@ -33,7 +33,7 @@ In this work, we use a copolymer backbone structure of poly[(9,9-dioctylfluoreny
 
 We also implement photoluminescence excitation (PLE) spectrometry to investigate chirality indices of PFT-sorted-s-SWCNTs. **Fig.A** shows the pristine SWCNTs as a control group, showing all possible chiralities of the SWCNTs. After selectively sorted by PFT, the underlying background and SWCNTs species were greatly reduced in **Fig.B**. But the fluorescence intensity of chirality (9,5)-SWCNTs remained strongest. This is because the PFT selectively extracts the chirality of (9,5), and subsequently the chiralities of (n,m)=(8,6), (7,5) and (10,5).
 
-In brief, the PFT polymer is useful to enrich the chiralities of s-SWCNTs from the mixtures. This provides a facile and simple strategy for microelectronics and photovoltaic applications. For more details see our paper [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)
+In brief, the PFT polymer is useful to enrich the chiralities of s-SWCNTs from the mixtures. This provides a facile and simple strategy for microelectronics and photovoltaic applications. For more details see our article [here](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)
 
 
 ------
