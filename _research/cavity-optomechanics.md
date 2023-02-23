@@ -8,7 +8,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-theory.png"
 ---
 
-Outline (this page is a short version of our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
+Outline (this page is a short version of our article [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848?ref=pdf)):
 1. Short introduction
 2. Schematic of capacitively coupled two distinct mechanical resonators
 3. Strategy of spectrum operation at red/blue sideband pumping
