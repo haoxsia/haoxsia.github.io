@@ -21,7 +21,7 @@ header:
   og_image: "https://haoxsia.github.io/images/research/2022-10-31-nanofab.png"
 ---
 
-Outline (this page shortly introduces our development of the device, see our paper [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01477)):
+Outline (this page shortly introduces our development of the device, see our article [here](https://pubs.acs.org/doi/10.1021/acs.nanolett.1c01477)):
 
 1. Short introduction
 2. Device fabrication
