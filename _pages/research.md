@@ -7,7 +7,7 @@ header:
   og_image: "profile.png"
 ---
 
-He/His research now contains two main scientific areas:
+He/His research now centers on two main scientific areas:
 
 First, <ins>advanced manufacturing of nano-/micro-electromechanical systems (NEMS/MEMS)</ins> is fundamental during his Ph.D.. Achieving high-Q factor of NEMS/MEMS devices is critical, because it plays an important role in squeezing mechanical-mode-based quantum ground state in order to enhance measurement sensitivity. Here, his microfabrication training in supercleanroom focuses on using EB lithography, dry etching and metal evaporation processes to fabricate high-Q nano-/micro-resonant capacitor devices, followed by sample inspection and metrology (at room temperature).
 
