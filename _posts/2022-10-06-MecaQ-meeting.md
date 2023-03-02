@@ -1,5 +1,5 @@
 ---
-title: ' Poster and oral presentation, 7th Annual Meeting: the GDR MecaQ Optomechanics'
+title: ' Poster, 7th Annual Meeting: the GDR MecaQ Optomechanics'
 date: 2022-10-06
 permalink: /posts/2022-10-06-MecaQ-meeting/
 tags:
