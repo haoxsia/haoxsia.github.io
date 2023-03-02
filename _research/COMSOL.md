@@ -5,8 +5,10 @@ excerpt: "<img src='/images/research/2022-10-31-cnts.png' alt=''>"
 collection: research
 order_number: 60
 header: 
-  og_image: "https://haoxsia.github.io/images/research/2022-10-31-cnts.png"
+  og_image: "https://haoxsia.github.io/images/research/2023-02-29-drum-sim.png"
 ---
 
-## COMSOL simulation ongoing...
+## Short intro
+
+COMSOL simulation ongoing...
 
