@@ -1,11 +1,11 @@
 ---
 title: "A story of spider web ongoing..."
 layout: single-portfolio
-excerpt: "<img src='/images/research/2023-02-29-spider-web2.png' alt=''>"
+excerpt: "<img src='/images/research/2023-02-29-spider-web3.png' alt=''>"
 collection: research
 order_number: 70
 header: 
-  og_image: "https://haoxsia.github.io/images/research/2023-02-29-spider-web2.png"
+  og_image: "https://haoxsia.github.io/images/research/2023-02-29-spider-web3.png"
 ---
 
 ## Short intro
