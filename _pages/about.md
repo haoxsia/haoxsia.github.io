@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 |<img src="https://haoxsia.github.io/images/2023-01-01-length-scale01.jpg?raw=true" alt="Photo" style="width: 3000px;"/>|
 |---|
 
