@@ -14,4 +14,3 @@ redirect_from:
 
 * Welcome! Hao works on microwave optomechanics research in the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining CNRS in 2020, he acquired his Master Degree in electronics from Jiaotong  University, Xi'an, China.
 * Keywords - NEMS/MEMS, nano-electronics, cavity classical/quantum optomechanics
-
