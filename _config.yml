@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hao Xu (徐 浩)"
-  avatar           : "hao-xu-image-2.jpg", "hao-xu-image.png"
+  avatar           : "hao-xu-image-2.jpg"
   bio              : "Ph.D. candidate/researcher in IEMN-CNRS"
   location         : "Lille, France"
   employer         :
