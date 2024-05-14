@@ -12,11 +12,10 @@ redirect_from:
 * Keywords - Nanofabrication, MEMS and NEMS, nanoelectronics, optomechanics
 
 ## News and activities
---------
+
 * **12/05/2022** I'm online participating in a virtual LIMMS-IEMN workshop on NEMS/MEMS. I learn from the colleagues from LIMMS UTokyo and IEMN-CNRS and know recent advances in NEMS/MEMS, probing technologies (including AFM or KFM) and biomedical sensors.
 
 * **10/25/2022** I'm attending a virtual meeting: Nature conference on Technologies for Neuroengineering 2022. I learn from the widespread colleagues in the field of Neuroengineering around the world.
 
 * **10/06/2022** I'm attending 7th Annual Meeting: the GDR MecaQ Nanomechanics and Optomechanics seminar in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin and Didier giving me this chance.
 
-------
