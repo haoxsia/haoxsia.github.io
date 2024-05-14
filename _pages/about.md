@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome! Hao Xu works on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining in CNRS-IEMN in 2020, he completed his Master Degree in Electronics at Xi'an Jiaotong  University, China.
+Welcome! Hao Xu works on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining in CNRS-IEMN in 2020, he completed his Master Degree in Electronics at Xi'an Jiaotong  University, China.
+
+Research Keywords - Nanofabrication, MEMS and NEMS, nanoelectronics, optomechanics
 
 My research centers on two main areas:
 
@@ -17,8 +19,6 @@ Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles
 Theory modeling and numerical simulating. With the help of cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, thus allowing for sideband manipulating the displacement of the mechanical mode. His aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This scheme offers a new opportunity for phonon based coupling optomechanics.
 
 Feel free to reach me at hao(dot)xu(dot)etu(dot)(at)univ-lille(dot)fr!
-
-* Keywords - Nanofabrication, MEMS and NEMS, nanoelectronics, optomechanics
 
 ## News and activities
 
