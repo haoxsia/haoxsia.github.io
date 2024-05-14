@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Xu's Homepage"
+title                    : "Hao Xu / 徐 浩"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hao Xu (徐 浩)"
+  name             : "Hao Xu"
   avatar           : "hao-xu-image-3.jpg"
   bio              : "CNRS-IEMN, PhD"
   location         : "Lille, France"
