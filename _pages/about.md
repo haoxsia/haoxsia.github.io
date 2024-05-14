@@ -14,9 +14,9 @@ Research Keywords - Nanofabrication, MEMS and NEMS, Nanoelectronics, Optomechani
 
 My research centers on two main areas:
 
-Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In the cleanroom, his fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
+Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In the cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
 
-Theory modeling and numerical simulating. With the help of cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, thus allowing for sideband manipulating the displacement of the mechanical mode. His aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This scheme offers a new opportunity for phonon based coupling optomechanics.
+Theory modeling and numerical simulating. With the help of cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, thus allowing for sideband manipulating the displacement of the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This scheme offers a new opportunity for phonon based coupling optomechanics.
 
 Feel free to reach me at hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu at cnrs(dot)fr!
 
