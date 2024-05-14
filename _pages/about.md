@@ -25,9 +25,9 @@ Feel free to reach me at hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu a
 * **11/29/2023** I have passed my thesis defense with the title "Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications", and have been Dr. Xu!
 * **06/06/2023** I'm, with Xin and Didier, contributing to our research progress entitled "Scanning microwave microscopy for investigations of mechanical vibrations and mode coupling" in Frontiers of Nanomechanical Systems (FNS) workshop in Delft in the Netherlands.
 * **01/30/2023** I'm participating in the event CNRS-IEMN's 30th anniversary, taking a tasty french red wine and cheese and talking with the colleagues. Cheers!IEMN!
-* **12/05/2022** I'm online participating in a virtual LIMMS-IEMN workshop on NEMS/MEMS. I learn from the colleagues from LIMMS UTokyo and IEMN-CNRS and know recent advances in NEMS/MEMS, probing technologies (including AFM or KFM) and biomedical sensors.
+* **12/05/2022** I'm online participating in a virtual LIMMS-IEMN workshop on NEMS/MEMS. I learn from the colleagues from LIMMS UTokyo and IEMN-CNRS and know recent advances in NEMS/MEMS, probing technologies (including AFM or KFM).
 * **10/25/2022** I'm attending a virtual meeting: Nature conference on Technologies for Neuroengineering 2022. I learn from the widespread colleagues in the field of Neuroengineering around the world.
 * **10/06/2022** I'm attending a GDR MecaQ Nanomechanics and Optomechanics seminar entitled "Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes" in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin and Didier giving me this chance.
 * **08/11/2022** Great news! Our manuscript "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
-hexagonal boron nitride" is published online in Nature Nanotechnology [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1).
+hexagonal boron nitride" is published online in Nature Nanotechnology! [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1). Thank my advisors Bilu Liu and Baofu Ding!
 
