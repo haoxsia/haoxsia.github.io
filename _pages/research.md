@@ -15,7 +15,7 @@ He/His research centers on two main areas:
 
 Previously (2 years ago), he worked on liquid crystals (LCs) nanophotonic devices. His aim was to study on the light-matter interaction between polarized lights and two-dimensional material LCs due to magnetic/electric-field flux control, thus exploring the physical phenomena and applications.
 
-Very early (5 years ago), carbon nanotubes (CNTs) and graphene (e.g., with optical, electrical and mechanical natures) have been investigated for optoelectronic applications or more.
+Very early (5 years ago), carbon nanotube and graphene (e.g., with optical, electrical and mechanical natures) have been investigated for optoelectronic applications.
 
 
 <nbsp>
