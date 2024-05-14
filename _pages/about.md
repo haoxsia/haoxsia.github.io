@@ -22,9 +22,9 @@ Feel free to reach me at hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu a
 
 ## News and activities
 
-* **06/06/2023** I'am, with Xin, contributing to our research progress entitled "Scanning microwave microscopy for investigations of mechanical vibrations and mode coupling" in Frontiers of Nanomechanical Systems (FNS) workshop in Delft in the Netherlands.
+* **06/06/2023** I'am, with Xin and Didier, contributing to our research progress entitled "Scanning microwave microscopy for investigations of mechanical vibrations and mode coupling" in Frontiers of Nanomechanical Systems (FNS) workshop in Delft in the Netherlands.
 * **12/05/2022** I'm online participating in a virtual LIMMS-IEMN workshop on NEMS/MEMS. I learn from the colleagues from LIMMS UTokyo and IEMN-CNRS and know recent advances in NEMS/MEMS, probing technologies (including AFM or KFM) and biomedical sensors.
 * **10/25/2022** I'm attending a virtual meeting: Nature conference on Technologies for Neuroengineering 2022. I learn from the widespread colleagues in the field of Neuroengineering around the world.
-* **10/06/2022** I'm attending 7th Annual Meeting: the GDR MecaQ Nanomechanics and Optomechanics seminar in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin and Didier giving me this chance.
+* **10/06/2022** I'm attending a GDR MecaQ Nanomechanics and Optomechanics seminar entitled "Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes" in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin and Didier giving me this chance.
 * **08/11/2022** Great news! My first-author Nature Nanotechnology article is published online. I am very appreciated my advisors, Bilu and Baofu for supporting me throughout all the work. Of course, without huge efforts from coauthors, this work is not possible, thanks all for supporting and discussing each step!
 
