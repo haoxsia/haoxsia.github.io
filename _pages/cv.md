@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[CV](/files/Hao_Xu_CV.pdf) updated in Jan 2023.
+[CV](/files/Hao_Xu_CV.pdf) updated in May 2024.
 
