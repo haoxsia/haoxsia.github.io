@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Home/
+  - /Home.html
 ---
 
 Hi! This is Hao Xu, working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining in CNRS-IEMN in 2020, I completed my Master in Electronics at Xi'an Jiaotong  University, China.
