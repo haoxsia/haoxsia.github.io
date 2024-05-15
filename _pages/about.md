@@ -24,7 +24,7 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(
 
 ## News and activities
 
-* **01/12/2024** I'm giving a invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
+* **01/12/2024** I'm giving an invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
 * **12/10/2023** I'm attending an online global young scholars' forum at the Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)) Shenzhen. I learn from the worldwide scholars and feel free talk with them.
 * **11/29/2023** I have passed my thesis defense with the title "Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications", and have been ~~Dr. Hao~~ Dr. Xu!
 * **06/06/2023** I'm, with Xin and Didier, contributing to our research progress entitled "Scanning microwave microscopy for investigations of mechanical vibrations and mode coupling" in [Frontiers of Nanomechanical Systems (FNS) workshop](https://www.fns2023.nl/delft) in the Netherlands.
