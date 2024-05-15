@@ -35,6 +35,6 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(
 * **08/11/2022** Great news! Our manuscript "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
 hexagonal boron nitride" is published online in Nature Nanotechnology! [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1). Thank my advisor Bilu Liu, Baofu Ding and all coauthors for supporting and discussing each step! Thank all LDMD group members for helps!
 * **04/16/2022** I'm receiving summer school invites from VU Amsterdam and EPFL-ETHZ. It is my great pleasure to have these top universities attention.
-* **02/01/2022** I'm attending a virtual talk by Olivier Arcizet from Neel institute CNRS on a topic of "nanowire dynamics in a 2D force field".
+* **02/01/2022** I'm attending a virtual talk by Olivier Arcizet from Neel institute CNRS on the topic of "nanowire dynamics in a 2D force field".
 * very early ago
 
