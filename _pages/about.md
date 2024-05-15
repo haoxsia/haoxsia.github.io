@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining in CNRS-IEMN in 2020, I completed my Master Degree in Electronics at Xi'an Jiaotong  University, China.
+Hi! This is Hao Xu, working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS. Prior to joining in CNRS-IEMN in 2020, I completed my Master in Electronics at Xi'an Jiaotong  University, China.
 
 Research Keywords - Nanofabrication, MEMS and NEMS, Nanoelectronics, Optomechanics
 
@@ -18,7 +18,9 @@ Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles
 
 Theory modeling and numerical simulating. With the help of cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, thus allowing for sideband manipulating the displacement of the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This scheme offers a new opportunity for phonon based coupling optomechanics.
 
-Feel free to reach me at hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu at cnrs(dot)fr!
+Previously, I have been fortunate staying in Bilu Liu's LDMD group in Tsinghua TBSI and working on micron and nanophotonic devices.
+
+Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu at cnrs(dot)fr!
 
 ## News and activities
 
@@ -30,4 +32,7 @@ Feel free to reach me at hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu a
 * **10/06/2022** I'm attending a GDR MecaQ Nanomechanics and Optomechanics seminar entitled "Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes" in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin Zhou and Didier Theron giving me this chance.
 * **08/11/2022** Great news! Our manuscript "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
 hexagonal boron nitride" is published online in Nature Nanotechnology! [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1). Thank my advisor Bilu Liu, Baofu Ding and all coauthors for supporting and discussing each step! Thank all LDMD group members for helps!
+* **04/16/2022** I'm receiving summer school offers from VU Amsterdam and EPFL-ETHZ. It is my great pleasure to have these top universities attention.
+* **02/01/2022** I'm attending a virtual talk from Olivier Arcizet from Neel institute CNRS on a topic of "nanowire dynamics in a 2D force field".
+* **very early ago**
 
