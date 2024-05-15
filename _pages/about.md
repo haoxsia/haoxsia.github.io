@@ -10,8 +10,6 @@ redirect_from:
 
 Hi! This is Hao Xu, working with Xin Zhou and Didier Theron, working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS, France. Prior to joining in CNRS-IEMN in 2020, I completed my Master in Electronics at Xi'an Jiaotong  University, China.
 
-Research Keywords - Nanofabrication, MEMS and NEMS, Nanoelectronics, Optomechanics
-
 My research centers on two main areas:
 
 Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In the cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
@@ -19,6 +17,8 @@ Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles
 Theory modeling and numerical simulating. With the help of cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, thus allowing for sideband manipulating the displacement of the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This scheme offers a new opportunity for phonon based coupling optomechanics.
 
 Previously, I have been fortunate staying in [Prof Bilu Liu's LDMD group](https://www.tbsi.edu.cn/biluliuGroup/home.html) in Tsinghua TBSI and working on micron and nanophotonic devices.
+
+**Research keywords** - Nanofabrication, MEMS and NEMS, Optomechanics, Nanophotonics
 
 Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu at cnrs(dot)fr!
 
