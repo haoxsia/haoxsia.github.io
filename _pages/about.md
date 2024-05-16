@@ -12,7 +12,7 @@ Hi! This is Hao Xu, working with Xin Zhou and Didier Theron, working on optomech
 
 My research centers on two main areas:
 
-Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In the cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
+Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
 
 Theory modeling and numerical simulating. With cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, then allowing for sideband manipulating the displacement of the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This double-tone scheme offers a new opportunity for phonon based coupling optomechanics.
 
