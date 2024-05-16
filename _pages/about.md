@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Hao Xu, working with Xin Zhou and Didier Theron, working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS, France. Prior to joining in CNRS-IEMN in 2020, I completed my Master in Electronics at Xi'an Jiaotong  University, China.
+Hi! This is Hao Xu, working with Xin Zhou and Didier Theron, working on optomechanics research at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS, France. Prior to joining in CNRS-IEMN in 2020, I completed my MEng in Electronics at Xi'an Jiaotong  University, China.
 
 My research centers on two main areas:
 
