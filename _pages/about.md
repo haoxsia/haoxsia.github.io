@@ -32,8 +32,8 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(
 * **12/05/2022** I'm online participating in a virtual LIMMS-IEMN workshop on NEMS/MEMS. I learn from the colleagues from LIMMS UTokyo and IEMN-CNRS.
 * **10/25/2022** I'm attending a virtual Nature conference on Technologies for Neuroengineering. I learn from the widespread colleagues in the field of Neuroengineering around the world.
 * **10/06/2022** I'm attending a [GDR MecaQ Nanomechanics and Optomechanics seminar](https://mecaqcolloq2022.sciencesconf.org/program) with the Poster title "Scanning microwave microscopy for detecting mechanical vibrations of silicon nitride membranes" in Bordeaux, France. I spend a very nice time with the colleagues all over the Europe. Thank my advisor, Xin Zhou and Didier Theron giving me this chance.
-* **08/11/2022** Great news! Our manuscript "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
-hexagonal boron nitride" is published online in Nature Nanotechnology! [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1). Thank my advisor Bilu Liu, Baofu Ding and all coauthors for supporting and discussing each step! Thank all LDMD group members for helps!
+* **08/11/2022** Our manuscript "Magnetically tunable and stable deep-ultraviolet birefringent optics using two-dimensional
+hexagonal boron nitride" is published online in Nature Nanotechnology as a Research article! [*Nature Nanotech*, **17**, 1091-1096(2022)](https://www.nature.com/articles/s41565-022-01186-1). Thank my advisor Bilu Liu, Baofu Ding and all coauthors for supporting and discussing each step! Thank all LDMD group members for helps!
 * **04/16/2022** I'm receiving summer school invites from VU Amsterdam and EPFL-ETHZ. It is my great pleasure to have these top universities attention.
 * **02/01/2022** I'm attending a virtual talk by Olivier Arcizet from Neel institute CNRS on the topic of "nanowire dynamics in a 2D force field".
 * very early ago
