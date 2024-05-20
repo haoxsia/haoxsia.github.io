@@ -20,7 +20,7 @@ Previously, I have been fortunate having research training in [Prof Bilu Liu's L
 
 **Research keywords** - Nanofabrication, MEMS and NEMS, Optomechanics, Nanophotonics
 
-Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr or hao(dot)xu at cnrs(dot)fr!
+Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
 
