@@ -16,7 +16,7 @@ Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles
 
 Theory modeling and numerical simulating. With cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, then allowing for sideband manipulating the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This double-tone scheme offers a new opportunity for phonon based coupling optomechanics.
 
-Previously, I have been fortunate having research training in [Prof Bilu Liu's LDMD group](https://www.tbsi.edu.cn/biluliuGroup/home.html) in Tsinghua TBSI and working on micron and nanophotonic devices.
+Previously, I have been fortunate having research training in [Prof Bilu Liu's LDMD group](https://www.tbsi.edu.cn/biluliuGroup/home.html) at Tsinghua TBSI and working on micron and nanophotonic devices.
 
 **Research keywords** - Nanofabrication, MEMS and NEMS, Optomechanics, Nanophotonics
 
