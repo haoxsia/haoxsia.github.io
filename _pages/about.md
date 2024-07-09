@@ -24,6 +24,7 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
 
+* **07/04/2024** I was participating in a ZOOM talk given by Isabelle Staude at the Max Planck Institute for the Science of Light with the topic of "Tailoring light fields with active semiconductor metasurfaces".
 * **01/12/2024** I'm giving an invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
 * **12/10/2023** I'm attending an online global young scholars' forum at the Chinese University of Hong Kong Shenzhen. I learn from the worldwide scholars and feel free talk with them.
 * **11/29/2023** I have passed my thesis defense with the title "Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications", and have been ~~Dr. Hao~~ Dr. Xu!
