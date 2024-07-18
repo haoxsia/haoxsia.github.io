@@ -86,8 +86,8 @@ author:
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "haoxsia"
-  email            : "hao.xu.etu@univ-lille.fr"
+  googlescholar    : https://scholar.google.com/citations?user=5hRWSzMAAAAJ&hl=en&oi=sra
+  email            : "haox@mail.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
