@@ -10,7 +10,7 @@ tags:
 ---
 
 <p align="center">
-  <img src="https://haoxsia.github.io/images/posts/2024-07-28-neuron-computation.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://haoxsia.github.io/images/posts/2024-07-24-neuron-computation.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 This coursera will focus mainly on the operational principles of neuronal “life-ware” (synapses, neurons and the networks that they form). How neurons behave as computational microchips and how they plastically and constantly change  - a process that underlies learning and memory and more.
 
