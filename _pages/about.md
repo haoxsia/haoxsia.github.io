@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Hao Xu, I am now a Postdoc fellow at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in 2024 at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS, France. I love math, physics, neuroscience, musical instruments, outdoor activities and dogs.
+Hi! This is Hao Xu, I am now a Postdoctoral fellow in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Index/index?lang=en) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute of Electronics, Microelectronics and Nanotechnology (IEMN), CNRS, France. I love math, physics, neuroscience, musical instruments, outdoor activities and dogs.
 
 My research centers on two main areas:
 
