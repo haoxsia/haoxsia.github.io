@@ -1,5 +1,5 @@
 ---
-title: 'Hebrew UniX: Synapses, Neurons and Brains'
+title: 'Hebrew UniX: Synapses, Neurons and Brains (Basic)'
 date: 2024-07-28
 permalink: /posts/2024-07-28-Hebrew-University/
 tags:
