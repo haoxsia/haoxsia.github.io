@@ -24,7 +24,7 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
 
-* **08/19/2024** I was a remote participant in the Workshop on Quantum Information and Physics held in the Institute for Advanced Science ([IAS](https://www.ias.edu/)) at Princeton. Most of knowledge on entanglement (many-body) physics was deepened and widened.
+* **08/19/2024** I was a remote participant in the Workshop on Quantum Information and Physics held in the Institute for Advanced Science ([IAS](https://www.ias.edu/)) at Princeton. Some knowledge on entanglement (many-body) physics was deepened and widened.
 * **07/04/2024** I was participating in a ZOOM talk given by Isabelle Staude at the Max Planck Institute for the Science of Light with the topic of "Tailoring light fields with active semiconductor metasurfaces".
 * **01/12/2024** I'm giving an invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
 * **12/10/2023** I'm attending an online global young scholars' forum at the Chinese University of Hong Kong Shenzhen. I learn from the worldwide scholars and feel free talk with them.
