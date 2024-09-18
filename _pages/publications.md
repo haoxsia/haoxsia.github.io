@@ -38,7 +38,7 @@ Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Eddy Collin, Xin Zhou. arXiv 
 * [High-Q and high-Coupling gated silicon nitride drum resonators](https://arxiv.org/abs/2104.07142v1)\
 Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andrew Fefferman, Mohammed Zaknoune, Eddy Collin. arXiv preprint arXiv:2104.07142 (2021)
 
-# International/national conferences
+# International conferences
 
 * [Scanning microwave microscopy for investigations of mechanical vibrations and mode coupling](https://www.fns2023.nl/)\
 Xin Zhou, **Hao Xu**, Didier Theron, Sophie Eliet, Christophe Boyaval, Pascal Tilmant, Francois Vaurette, Dmitri Yarekha, Jeanmarcel Houpin. Frontiers of Nanomechanical Systems (FNS) workshop, Delft, The Netherlands, June (2023)
