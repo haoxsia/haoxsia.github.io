@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Hao Xu, I am a Shuimu Postdoctoral Fellow in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Index/index?lang=en) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute of Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroscience, musical instruments, outdoor activities and dogs.
 
-My research goal, narrowing the gap of conventional and future thermometry or incorporating neuracompuation into future brain, centers on two main areas:
+My research goal, narrowing the gap of conventional and future thermometry or incorporating neuracomputation into future brain, centers on two main areas:
 
 Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
 
