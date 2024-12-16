@@ -10,11 +10,13 @@ redirect_from:
 
 Hi! This is Hao Xu, I am a Shuimu Postdoctoral Fellow in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Index/index?lang=en) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute of Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroscience, musical instruments, outdoor activities and dogs.
 
-My research goal, narrowing the gap of conventional and future thermometry or incorporating neuracomputation into future brain, centers on two main areas:
+My research goal, narrowing the gap of conventional and future thermometry, formerly centers on two main areas:
 
 Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
 
 Theory modeling and numerical simulating. With cavity-enhanced sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, then allowing for sideband manipulating the mechanical mode. My aim is to analyse a mode coupling nanoelectromechanical system while probe/pump multifrequency operating. This double-tone scheme offers a new opportunity for phonon based coupling optomechanics.
+
+I have another interest in incorporating neuracomputation based on synapses, neuronal devices and their networks into future brain science.
 
 Previously, I have been fortunate having research training in [Prof Bilu Liu's LDMD group](https://www.tbsi.edu.cn/biluliuGroup/home.html) at Tsinghua TBSI and working on micron and nanophotonic devices.
 
