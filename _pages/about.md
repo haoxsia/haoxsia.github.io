@@ -12,11 +12,11 @@ Hi! This is Hao Xu (徐 浩), I am a Shuimu Postdoctoral Fellow in the [Nano-Opt
 
 My research goal, narrowing the gap of conventional and future thermometry, formerly centers on two main areas:
 
-Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as classical force or mass sensors and quantum engineering. In cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
+Nanofabrication for MEMS/NEMS. High-Q MEMS devices present their promising roles played by potential applications, such as force or mass sensors and quantum engineering. In cleanroom, my fabrication method mainly focuses on using EB lithography and dry etching processes to fabricate high-Q devices, following with sample check and characterization (at room temperature).
 
-Theory modeling and numerical simulating. With cavity-aided sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, then allowing for sideband pump manipulating the mechanical mode. In electrical readout scheme, my aim is to analyze a mode coupling nanoelectromechanical system while pump/probe multifrequency operating. This double-tone scheme offers a new opportunity for phonon-phonon based coupling optomechanics.
+Theory modeling and numerical simulating. With cavity-aided sensing, the radiation pressure from light(microwave) circulating in one cavity enables optomechanical coupling between optical(microwave) mode and mechanical mode, then allowing for parametric pump manipulating the mechanical mode. In electrical readout scheme, my aim is to analyze a mode coupling nanoelectromechanical system while pump/probe multifrequency operating. This double-tone scheme offers a new opportunity for phonon based coupling optomechanics.
 
-I have another interest in incorporating neuracomputation based on synapse, neuronal devices and their networks into future brain science.
+I have another interest in incorporating neuracomputation based on synapses, neuronal devices and their networks into future brain science.
 
 Previously, I have been fortunate having research training in [Prof Bilu Liu's LDMD group](https://www.tbsi.edu.cn/biluliuGroup/home.html) at Tsinghua TBSI and working on micron and nanophotonic devices.
 
@@ -26,7 +26,7 @@ Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
 
-* **05/18/2025** I have participated and finished proudly the 51.5KM Triathlon event (Standard distance - age group rank 30% now still upgrading) at 2025 Shanghai Yangtze River Delta International Triathlon. Take triathlon technical talks with the event staffs, and experience an appreciating race route!
+* **05/18/2025** I have participated and finished proudly the 51.5KM Triathlon event (Standard distance - age group rank 30%) at 2025 Shanghai Yangtze River Delta International Triathlon. Take triathlon technical talks with the event staffs, and experience an appreciating race route!
 * **01/08/2025** I gave an invite talk at Beijing Academy of Quantum Information Sciences with the talk title of "Fabrication and parametric pumping analysis of silicon nitride membrane nanoelectromechanical resonator". Thank the host, Yulong Liu for giving me this chance.
 * **08/19/2024** I was a remote participant in the Workshop on Quantum Information and Physics held in the Institute for Advanced Study ([IAS](https://www.ias.edu/)) at Princeton. The knowledge on entanglement (many-body) physics was deepened and widened. Also thank Lisa for helps.
 * **07/04/2024** I was participating in a ZOOM talk given by Isabelle Staude at the Max Planck Institute for the Science of Light with the topic of "Tailoring light fields with active semiconductor metasurfaces".
