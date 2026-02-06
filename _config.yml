@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Xu"
   avatar           : "Hao-Xu.jpg"
-  bio              : "Tsinghua University, Postdoc<br/> he/him/his"
+  bio              : "Tsinghua University, Postdoc<br/> he/il/him"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=5hRWSzMAAAAJ&hl=en&oi=sra
-  email            : "haox@mail.tsinghua.edu.cn"
+  email            : "haox[at]mail[dot]tsinghua[dot]edu[dot]cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
