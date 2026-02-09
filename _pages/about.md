@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Hao Xu (徐 浩), I am a Postdoctoral researcher in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroengineering, musical instruments and outdoor activities.
+Hi! This is Hao Xu (徐 浩), I am a Postdoctoral Researcher in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroengineering, musical instruments and outdoor activities.
 
 My research goal, narrowing the gap of conventional and future thermometry, formerly centers on two main areas:
 
