@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Hao Xu (徐 浩), I am a Shuimu Postdoctoral Fellow in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroengineering, musical instruments and outdoor activities.
+Hi! This is Hao Xu (徐 浩), I am a Postdoctoral researcher in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. I love math, physics, neuroengineering, musical instruments and outdoor activities.
 
 My research goal, narrowing the gap of conventional and future thermometry, formerly centers on two main areas:
 
@@ -25,8 +25,7 @@ Previously, I have been fortunate having research training in [Prof Bilu Liu's L
 Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
-
-* **05/18/2025** I have participated and finished proudly the 51.5KM Triathlon event (Standard distance - age group rank 30%) at 2025 Shanghai Yangtze River Delta International Triathlon. Take triathlon technical talks with the event staffs, and experience an appreciating race route!
+Last edited on Feb 2026
 * **01/08/2025** I gave an invite talk at Beijing Academy of Quantum Information Sciences with the talk title of "Fabrication and parametric pumping analysis of silicon nitride membrane nanoelectromechanical resonator". Thank the host, Yulong Liu for giving me this chance.
 * **08/19/2024** I was a remote participant in the Workshop on Quantum Information and Physics held in the Institute for Advanced Study ([IAS](https://www.ias.edu/)) at Princeton. The knowledge on entanglement (many-body) physics was deepened and widened.
 * **01/12/2024** I'm giving an invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
