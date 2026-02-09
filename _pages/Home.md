@@ -25,7 +25,6 @@ Previously, I have been fortunate having research training in [Prof Bilu Liu's L
 Feel free to reach me by emails: hao(dot)xu(dot)etu at univ-lille(dot)fr!
 
 ## News and activities
-Last edited on Feb 2026
 * **01/08/2025** I gave an invite talk at Beijing Academy of Quantum Information Sciences with the talk title of "Fabrication and parametric pumping analysis of silicon nitride membrane nanoelectromechanical resonator". Thank the host, Yulong Liu for giving me this chance.
 * **08/19/2024** I was a remote participant in the Workshop on Quantum Information and Physics held in the Institute for Advanced Study ([IAS](https://www.ias.edu/)) at Princeton. The knowledge on entanglement (many-body) physics was deepened and widened.
 * **01/12/2024** I'm giving an invite talk at Xi'an Jiaotiong University with the talk title "Fabrication of silicon nitride membrane nanoelectromechanical resonator". Thank Feng Li, for inviting me.
