@@ -27,16 +27,8 @@ Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andre
 * [Supramolecular interactions of poly [(9, 9-dioctylfluorenyl-2, 7-diyl)-co-thiophene] with
 single-walled carbon nanotubes](https://www.degruyter.com/document/doi/10.1515/ntrev-2018-0041/html)<br/> Ping Zhang, Wenhui Yi, **Hao Xu**, Chao Gao, Jin Hou, Weiqiu Jin, Yue Lei, Xun Hou. *Nanotechnology Reviews* 7(6), 487-495 (2018)
 
-# Important contributions
-
-* [Imaging nanomechanical vibrations and manipulating parametric mode coupling via scanning microwave microscopy](https://export.arxiv.org/abs/2407.00239)\
-**Hao Xu**, Srisaran Venkatachalam, Toky-Harrison Rabenimanana, Christophe Boyaval, Sophie Eliet, Flavie Braud, Eddy Collin, Didier Theron, Xin Zhou. arXiv preprint 	arXiv:2407.00239 (2024)
-
-* [Capacitively coupled distinct mechanical resonators for room temperature phonon-cavity electromechanics](https://arxiv.org/abs/2204.04641)\
-Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Eddy Collin, Xin Zhou. arXiv preprint arXiv:2204.04641 (2022)
-
-* [High-Q and high-Coupling gated silicon nitride drum resonators](https://arxiv.org/abs/2104.07142v1)\
-Xin Zhou, Srisaran Venkatachalam, Ronghua Zhou, **Hao Xu**, Alok Pokharel, Andrew Fefferman, Mohammed Zaknoune, Eddy Collin. arXiv preprint arXiv:2104.07142 (2021)
+* [Recent advances in siRNA delivery for cancer therapy using smart nanocarriers](https://www.sciencedirect.com/science/article/pii/S1359644617304294)<br/> Penghui Zhang, Keli An, Xiaoman Duan, **Hao Xu**, Fei Li, Feng Xu,
+*Drug Discovery Today* 23, 4, 900-911 (2018)
 
 # International conferences
 
