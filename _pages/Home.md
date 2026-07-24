@@ -8,7 +8,7 @@ redirect_from:
   - /Home.html
 ---
 
-Hi! This is Hao Xu (徐 浩), I am now a Postdoctoral Researcher in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. Outside of work, my interests involve neuroengineering and outdoor sports activities.
+Hi! This is Hao Xu (徐 浩), I am now a Postdoctoral Researcher in the [Nano-Optoelectronics Lab](https://nano-oelab.ee.tsinghua.edu.cn/Home/Jsxx/jsxx_1?lang=en&id=810) at Tsinghua University. Prior to here, I received my Ph.D. majoring in micro and nanoelectronics in Jan 2024 at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS, France. Outside of work, my interests involve neuroengineering and outdoor sports activities. 
 
 My research goal at IEMN, narrowing the gap of conventional thermometer versus optomechanical one, formerly centers on two main areas:
 
