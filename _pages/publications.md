@@ -17,5 +17,5 @@ Abstract graphic | Selected publication journals
 <img src="https://haoxsia.github.io/images/publication/nl_2022_v1.png?raw=true" alt="Photo" style="width: 500px;"/> | [Capacitively coupled distinct mechanical resonators for room temperature phonon-cavity electromechanics](https://pubs.acs.org/doi/10.1021/acs.nanolett.2c01848)<br/> Alok Pokharel, **Hao Xu**, Srisaran Venkatachalam, Eddy Collin, Xin Zhou. *Nano Letters* 22 (18), 7351-7357 (2022)
 
 
-Other essential contribution papers found in **[google scholar](https://scholar.google.com/citations?user=5hRWSzMAAAAJ&hl=en&oi=sra)**
+Other essential contribution papers found in [google scholar](https://scholar.google.com/citations?user=5hRWSzMAAAAJ&hl=en&oi=sra)
 
