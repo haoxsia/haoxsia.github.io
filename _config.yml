@@ -11,9 +11,9 @@ title                    : "Hao Xu / 徐 浩"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "personal description"
-url                      : https://haoxsia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hxu121.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haoxsia/haoxsia.github.io"
+repository               : "hxu121/hxu121.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -93,10 +93,10 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : #"haoxsia"
+  flickr           : #"hxu121"
   facebook         :
   foursquare       :
-  github           : #"haoxsia"
+  github           : #"hxu121"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"haoxsia"
+  twitter          : #"hxu121"
   vine             :
   weibo            :
   xing             :
