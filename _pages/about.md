@@ -14,6 +14,8 @@ My research interest focuses on the micro and nanosystems realization based on d
 
 2020-2024, I received my PhD (in nanoelectronics) working with Didier Theron and Xin Zhou at the Institute for Electronics, Microelectronics and Nanotechnology ([IEMN](https://www.iemn.fr/en/)), CNRS/Univ. Lille, France.
 
+Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications. Doctoral Thesis, CNRS/Univ. Lille. Available [here](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf).
+
 2018-2020, I did my research assistant training (in nanophotonics) at Tsinghua University [TBSI](https://www.sigs.tsinghua.edu.cn/).
 
 **Research keywords** - Nanofabrication, MEMS and NEMS, Optomechanics, Nanophotonics
