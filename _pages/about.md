@@ -18,7 +18,7 @@ My research interest focuses on the micro and nanosystems realization based on d
 
 Xu H. (2023). Analysis of device properties of silicon nitride membrane nanoelectromechanical resonators for future optomechanical thermometry applications. Doctoral Thesis, CNRS/Univ. Lille. Available [here](https://theses.hal.science/tel-04684713v1/file/These_XU_Hao.pdf).
 
-2018-2020, I did my research assistant training (in nanophotonics) at Tsinghua University [TBSI](https://www.sigs.tsinghua.edu.cn/).
+2017-2020, I did my research assistant training (in nanophotonics) at Tsinghua University [TBSI](https://www.sigs.tsinghua.edu.cn/) and conducted my academic training (visiting graduate) at University of California San Diego ([UCSD](https://ucsd.edu/about/index.html)).
 
 **Research keywords** - Nanofabrication, MEMS and NEMS, Optomechanics, Nanophotonics
 
